@@ -1,0 +1,1992 @@
+a
+{u'Noun': ['a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron', 'any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes', 'one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose', '(biochemistry', "the basic unit of electric current adopted under the Systeme International d'Unites", 'the 1st letter of the Roman alphabet', 'the blood group whose red cells carry the A antigen']}
+aa
+{u'Noun': ['a dry form of lava resembling clinkers', 'an international organization that provides a support group for persons trying to overcome alcoholism', 'an associate degree in arts', 'a terrorist organization whose goal is to take over Japan and then the world; based on a religion founded in 1987 that combines elements of Buddhism with Christianity']}
+aaa
+{u'Noun': ['an aneurysm of the abdominal aorta associated with old age and hypertension']}
+aachen
+{u'Noun': ["a city in western Germany near the Dutch and Belgian borders; formerly it was Charlemagne's northern capital"]}
+aardvark
+{u'Noun': ['nocturnal burrowing mammal of the grasslands of Africa that feeds on termites; sole extant representative of the order Tubulidentata']}
+aardvarks
+{u'Noun': ['nocturnal burrowing mammal of the grasslands of Africa that feeds on termites; sole extant representative of the order Tubulidentata']}
+aardwolf
+{u'Noun': ['striped hyena of southeast Africa that feeds chiefly on insects']}
+aardwolves
+{u'Noun': ['striped hyena of southeast Africa that feeds chiefly on insects']}
+aarhus
+{u'Noun': ['port city of Denmark in eastern Jutland']}
+aaron
+{u'Noun': ['United States professional baseball player who hit more home runs than Babe Ruth (born in 1934', '(Old Testament']}
+ab
+{u'Noun': ["a bachelor's degree in arts and sciences", 'the eleventh month of the civil year; the fifth month of the ecclesiastical year in the Jewish calendar (in July and August', 'the muscles of the abdomen', 'the blood group whose red cells carry both the A and B antigens']}
+aba
+{u'Noun': ['a loose sleeveless outer garment made from aba cloth; worn by Arabs', 'a fabric woven from goat hair and camel hair']}
+abaca
+{u'Noun': ['a kind of hemp obtained from the abaca plant in the Philippines', 'Philippine banana tree having leafstalks that yield Manila hemp used for rope and paper etc']}
+abacas
+{u'Noun': ['a kind of hemp obtained from the abaca plant in the Philippines', 'Philippine banana tree having leafstalks that yield Manila hemp used for rope and paper etc']}
+abaci
+{u'Noun': ['a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave', 'a calculator that performs arithmetic functions by manually sliding counters on rods or in grooves']}
+aback
+{u'Adverb': ['having the wind against the forward side of the sails', 'by surprise']}
+abactinal
+{u'Adjective': ['(of radiate animals']}
+abacus
+{u'Noun': ['a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave', 'a calculator that performs arithmetic functions by manually sliding counters on rods or in grooves']}
+abacuses
+{u'Noun': ['a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave', 'a calculator that performs arithmetic functions by manually sliding counters on rods or in grooves']}
+abadan
+{u'Noun': ['a port city in southwestern Iran']}
+abaft
+{u'Adverb': ['at or near or toward the stern of a ship or tail of an airplane']}
+abalone
+{u'Noun': ['any of various large edible marine gastropods of the genus Haliotis having an ear-shaped shell with pearly interior']}
+abalones
+{u'Noun': ['any of various large edible marine gastropods of the genus Haliotis having an ear-shaped shell with pearly interior']}
+abampere
+{u'Noun': ['a unit of current equal to 10 amperes']}
+abamperes
+{u'Noun': ['a unit of current equal to 10 amperes']}
+abandon
+{u'Verb': ['forsake, leave behind', 'give up with the intent of never claiming again', 'leave behind empty; move out of', 'stop maintaining or insisting on; of ideas or claims', 'leave someone who needs or counts on you; leave in the lurch'], u'Noun': ['the trait of lacking restraint or control; reckless freedom from inhibition or worry', 'a feeling of extreme emotional intensity']}
+abandoned
+{u'Adjective': ['forsaken by owner or inhabitants', 'unrestrained and uninhibited'], u'Verb': ['forsake, leave behind', 'give up with the intent of never claiming again', 'leave behind empty; move out of', 'stop maintaining or insisting on; of ideas or claims', 'leave someone who needs or counts on you; leave in the lurch']}
+abandoning
+{u'Verb': ['forsake, leave behind', 'give up with the intent of never claiming again', 'leave behind empty; move out of', 'stop maintaining or insisting on; of ideas or claims', 'leave someone who needs or counts on you; leave in the lurch']}
+abandonment
+{u'Noun': ['the act of giving something up', 'withdrawing support or help despite allegiance or responsibility', 'the voluntary surrender of property (or a right to property']}
+abandonments
+{u'Noun': ['the act of giving something up', 'withdrawing support or help despite allegiance or responsibility', 'the voluntary surrender of property (or a right to property']}
+abandons
+{u'Verb': ['forsake, leave behind', 'give up with the intent of never claiming again', 'leave behind empty; move out of', 'stop maintaining or insisting on; of ideas or claims', 'leave someone who needs or counts on you; leave in the lurch'], u'Noun': ['the trait of lacking restraint or control; reckless freedom from inhibition or worry', 'a feeling of extreme emotional intensity']}
+abas
+{u'Noun': ['a loose sleeveless outer garment made from aba cloth; worn by Arabs', 'a fabric woven from goat hair and camel hair']}
+abase
+{u'Verb': ['cause to feel shame; hurt the pride of']}
+abased
+{u'Verb': ['cause to feel shame; hurt the pride of']}
+abasement
+{u'Noun': ['a low or downcast state', 'depriving one of self-esteem']}
+abasements
+{u'Noun': ['a low or downcast state', 'depriving one of self-esteem']}
+abases
+{u'Verb': ['cause to feel shame; hurt the pride of']}
+abash
+{u'Verb': ['cause to be embarrassed; cause to feel self-conscious']}
+abashed
+{u'Adjective': ['feeling or caused to feel ill at ease or self-conscious or ashamed'], u'Verb': ['cause to be embarrassed; cause to feel self-conscious']}
+abashes
+{u'Verb': ['cause to be embarrassed; cause to feel self-conscious']}
+abashing
+{u'Verb': ['cause to be embarrassed; cause to feel self-conscious']}
+abashment
+{u'Noun': ['feeling embarrassed due to modesty']}
+abashments
+{u'Noun': ['feeling embarrassed due to modesty']}
+abasing
+{u'Verb': ['cause to feel shame; hurt the pride of']}
+abatable
+{u'Adjective': ['capable of being abated']}
+abate
+{u'Verb': ['make less active or intense', 'become less in amount or intensity']}
+abated
+{u'Verb': ['make less active or intense', 'become less in amount or intensity']}
+abatement
+{u'Noun': ['an interruption in the intensity or amount of something', 'the act of abating']}
+abatements
+{u'Noun': ['an interruption in the intensity or amount of something', 'the act of abating']}
+abates
+{u'Verb': ['make less active or intense', 'become less in amount or intensity']}
+abating
+{u'Verb': ['make less active or intense', 'become less in amount or intensity']}
+abatis
+{u'Noun': ['a line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined']}
+abator
+{u'Noun': ['a person who abates a nuisance']}
+abators
+{u'Noun': ['a person who abates a nuisance']}
+abattis
+{u'Noun': ['a line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined']}
+abattises
+{u'Noun': ['a line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined']}
+abattoir
+{u'Noun': ['a building where animals are butchered']}
+abattoirs
+{u'Noun': ['a building where animals are butchered']}
+abaxial
+{u'Adjective': ['facing away from the axis of an organ or organism']}
+abaya
+{u'Noun': ['(Arabic']}
+abayas
+{u'Noun': ['(Arabic']}
+abb
+{u'Noun': ['an urban hit squad and guerrilla group of the Communist Party in the Philippines; formed in the 1980s']}
+abbacies
+{u'Noun': ['the jurisdiction or office of an abbot']}
+abbacy
+{u'Noun': ['the jurisdiction or office of an abbot']}
+abbatial
+{u'Adjective': ['of or having to do with or belonging to an abbey or abbot, or abbess']}
+abbe
+{u'Noun': ['a French abbot']}
+abbes
+{u'Noun': ['a French abbot']}
+abbess
+{u'Noun': ['the superior of a group of nuns']}
+abbesses
+{u'Noun': ['the superior of a group of nuns']}
+abbey
+{u'Noun': ['a church associated with a monastery or convent', 'a convent ruled by an abbess', 'a monastery ruled by an abbot']}
+abbeys
+{u'Noun': ['a church associated with a monastery or convent', 'a convent ruled by an abbess', 'a monastery ruled by an abbot']}
+abbot
+{u'Noun': ['the superior of an abbey of monks']}
+abbots
+{u'Noun': ['the superior of an abbey of monks']}
+abbreviate
+{u'Verb': ['reduce in scope while retaining essential elements', 'shorten']}
+abbreviated
+{u'Adjective': ['(of clothing', 'cut short in duration'], u'Verb': ['reduce in scope while retaining essential elements', 'shorten']}
+abbreviates
+{u'Verb': ['reduce in scope while retaining essential elements', 'shorten']}
+abbreviating
+{u'Verb': ['reduce in scope while retaining essential elements', 'shorten']}
+abbreviation
+{u'Noun': ['a shortened form of a word or phrase', 'shortening something by omitting parts of it']}
+abbreviations
+{u'Noun': ['a shortened form of a word or phrase', 'shortening something by omitting parts of it']}
+abbreviator
+{u'Noun': ['one who shortens or abridges or condenses a written work']}
+abbreviators
+{u'Noun': ['one who shortens or abridges or condenses a written work']}
+abbs
+{u'Noun': ['an urban hit squad and guerrilla group of the Communist Party in the Philippines; formed in the 1980s']}
+abc
+{u'Noun': ['the elementary stages of any subject (usually plural']}
+abdicable
+{u'Adjective': ['capable of being discarded or renounced or relinquished']}
+abdicate
+{u'Verb': ['give up, such as power, as of monarchs and emperors, or duties and obligations']}
+abdicated
+{u'Verb': ['give up, such as power, as of monarchs and emperors, or duties and obligations']}
+abdicates
+{u'Verb': ['give up, such as power, as of monarchs and emperors, or duties and obligations']}
+abdicating
+{u'Verb': ['give up, such as power, as of monarchs and emperors, or duties and obligations']}
+abdication
+{u'Noun': ['a formal resignation and renunciation of powers', 'the act of abdicating']}
+abdications
+{u'Noun': ['a formal resignation and renunciation of powers', 'the act of abdicating']}
+abdicator
+{u'Noun': ['one who formally relinquishes an office or responsibility']}
+abdicators
+{u'Noun': ['one who formally relinquishes an office or responsibility']}
+abdomen
+{u'Noun': ['the region of the body of a vertebrate between the thorax and the pelvis', 'the cavity containing the major viscera; in mammals it is separated from the thorax by the diaphragm']}
+abdomens
+{u'Noun': ['the region of the body of a vertebrate between the thorax and the pelvis', 'the cavity containing the major viscera; in mammals it is separated from the thorax by the diaphragm']}
+abdominal
+{u'Adjective': ['of or relating to or near the abdomen'], u'Noun': ['the muscles of the abdomen']}
+abdominals
+{u'Noun': ['the muscles of the abdomen']}
+abdominous
+{u'Adjective': ['having a large belly']}
+abduce
+{u'Verb': ['advance evidence for']}
+abduced
+{u'Verb': ['advance evidence for']}
+abducent
+{u'Adjective': ['especially of muscles; drawing away from the midline of the body or from an adjacent part'], u'Noun': ['a small motor nerve supplying the lateral rectus muscle of the eye']}
+abduces
+{u'Verb': ['advance evidence for']}
+abducing
+{u'Verb': ['advance evidence for']}
+abduct
+{u'Verb': ['take away to an undisclosed location against their will and usually in order to extract a ransom', 'pull away from the body']}
+abducted
+{u'Verb': ['take away to an undisclosed location against their will and usually in order to extract a ransom', 'pull away from the body']}
+abducting
+{u'Adjective': ['especially of muscles; drawing away from the midline of the body or from an adjacent part'], u'Verb': ['take away to an undisclosed location against their will and usually in order to extract a ransom', 'pull away from the body']}
+abduction
+{u'Noun': ["the criminal act of capturing and carrying away by force a family member; if a man's wife is abducted it is a crime against the family relationship and against the wife", '(physiology']}
+abductions
+{u'Noun': ["the criminal act of capturing and carrying away by force a family member; if a man's wife is abducted it is a crime against the family relationship and against the wife", '(physiology']}
+abductor
+{u'Noun': ['someone who unlawfully seizes and detains a victim (usually for ransom', 'a muscle that draws a body part away from the median line']}
+abductors
+{u'Noun': ['someone who unlawfully seizes and detains a victim (usually for ransom', 'a muscle that draws a body part away from the median line']}
+abducts
+{u'Verb': ['take away to an undisclosed location against their will and usually in order to extract a ransom', 'pull away from the body']}
+abeam
+{u'Adverb': ['at right angles to the length of a ship or airplane']}
+abecedarian
+{u'Adjective': ['alphabetically arranged (as for beginning readers'], u'Noun': ['a novice learning the rudiments of some subject', 'a 16th century sect of Anabaptists centered in Germany who had an absolute disdain for human knowledge']}
+abecedarians
+{u'Noun': ['a novice learning the rudiments of some subject', 'a 16th century sect of Anabaptists centered in Germany who had an absolute disdain for human knowledge']}
+abed
+{u'Adverb': ['in bed']}
+abel
+{u'Noun': ['Norwegian mathematician (1802-1829', '(Old Testament']}
+abelard
+{u'Noun': ['French philosopher and theologian; lover of Heloise (1079-1142']}
+abele
+{u'Noun': ['a poplar that is widely cultivated in the United States; has white bark and leaves with whitish undersurfaces']}
+abeles
+{u'Noun': ['a poplar that is widely cultivated in the United States; has white bark and leaves with whitish undersurfaces']}
+abelia
+{u'Noun': ['any of various deciduous or evergreen ornamental shrubs of the genus Abelia having opposite simple leaves and cymes of small white or pink or purplish flowers; Asia and Mexico']}
+aberdare
+{u'Noun': ['a mining town in southern Wales']}
+aberdeen
+{u'Noun': ['a town in western Washington', 'a town in northeastern South Dakota', 'a town in northeastern Maryland', 'a city in northeastern Scotland on the North Sea']}
+aberdonian
+{u'Adjective': ['of or relating to Aberdeen']}
+aberrance
+{u'Noun': ['a state or condition markedly different from the norm']}
+aberrances
+{u'Noun': ['a state or condition markedly different from the norm']}
+aberrancies
+{u'Noun': ['a state or condition markedly different from the norm']}
+aberrancy
+{u'Noun': ['a state or condition markedly different from the norm']}
+aberrant
+{u'Adjective': ['markedly different from an accepted norm'], u'Noun': ['one whose behavior departs substantially from the norm of a group']}
+aberrate
+{u'Verb': ['diverge from the expected', 'diverge or deviate from the straight path; produce aberration']}
+aberrated
+{u'Verb': ['diverge from the expected', 'diverge or deviate from the straight path; produce aberration']}
+aberrates
+{u'Verb': ['diverge from the expected', 'diverge or deviate from the straight path; produce aberration']}
+aberrating
+{u'Verb': ['diverge from the expected', 'diverge or deviate from the straight path; produce aberration']}
+aberration
+{u'Noun': ['a state or condition markedly different from the norm', "a disorder in one's mental state", 'an optical phenomenon resulting from the failure of a lens or mirror to produce a good image']}
+aberrations
+{u'Noun': ['a state or condition markedly different from the norm', "a disorder in one's mental state", 'an optical phenomenon resulting from the failure of a lens or mirror to produce a good image']}
+abet
+{u'Verb': ['assist or encourage, usually in some wrongdoing']}
+abetment
+{u'Noun': ['the verbal act of urging on']}
+abetments
+{u'Noun': ['the verbal act of urging on']}
+abets
+{u'Verb': ['assist or encourage, usually in some wrongdoing']}
+abettal
+{u'Noun': ['the verbal act of urging on']}
+abettals
+{u'Noun': ['the verbal act of urging on']}
+abetted
+{u'Verb': ['assist or encourage, usually in some wrongdoing']}
+abetter
+{u'Noun': ['one who helps or encourages or incites another']}
+abetters
+{u'Noun': ['one who helps or encourages or incites another']}
+abetting
+{u'Verb': ['assist or encourage, usually in some wrongdoing']}
+abettor
+{u'Noun': ['one who helps or encourages or incites another']}
+abettors
+{u'Noun': ['one who helps or encourages or incites another']}
+abeyance
+{u'Noun': ['temporary cessation or suspension']}
+abeyances
+{u'Noun': ['temporary cessation or suspension']}
+abeyant
+{u'Adjective': ['inactive but capable of becoming active']}
+abhor
+{u'Verb': ['find repugnant']}
+abhorred
+{u'Verb': ['find repugnant']}
+abhorrence
+{u'Noun': ['hate coupled with disgust']}
+abhorrences
+{u'Noun': ['hate coupled with disgust']}
+abhorrent
+{u'Adjective': ['offensive to the mind']}
+abhorrer
+{u'Noun': ['a signer of a 1679 address to Charles II in which those who petitioned for the reconvening of parliament were condemned and abhorred']}
+abhorrers
+{u'Noun': ['a signer of a 1679 address to Charles II in which those who petitioned for the reconvening of parliament were condemned and abhorred']}
+abhorring
+{u'Verb': ['find repugnant']}
+abhors
+{u'Verb': ['find repugnant']}
+abidance
+{u'Noun': ['acting according to certain accepted standards', 'the act of dwelling in a place', 'the act of abiding (enduring without yielding']}
+abidances
+{u'Noun': ['acting according to certain accepted standards', 'the act of dwelling in a place', 'the act of abiding (enduring without yielding']}
+abide
+{u'Verb': ['put up with something or somebody unpleasant']}
+abided
+{u'Verb': ['put up with something or somebody unpleasant']}
+abides
+{u'Verb': ['put up with something or somebody unpleasant']}
+abiding
+{u'Adjective': ['lasting a long time'], u'Verb': ['put up with something or somebody unpleasant']}
+abidjan
+{u'Noun': ['city recognized by the United States as the capital of the Ivory Coast; largest city of the Ivory Coast']}
+abies
+{u'Verb': ['make amends for'], u'Noun': ['true firs']}
+abieses
+{u'Noun': ['true firs']}
+abilities
+{u'Noun': ['the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment', 'possession of the qualities (especially mental qualities']}
+ability
+{u'Noun': ['the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment', 'possession of the qualities (especially mental qualities']}
+abiogenesis
+{u'Noun': ['a hypothetical organic phenomenon by which living organisms are created from nonliving matter']}
+abiogenetic
+{u'Adjective': ['originating by abiogenesis']}
+abiogenist
+{u'Noun': ['a believer in abiogenesis']}
+abiogenists
+{u'Noun': ['a believer in abiogenesis']}
+abject
+{u'Adjective': ['of the most contemptible kind', 'most unfortunate or miserable', 'showing utter resignation or hopelessness', 'showing humiliation or submissiveness']}
+abjection
+{u'Noun': ['a low or downcast state']}
+abjections
+{u'Noun': ['a low or downcast state']}
+abjectly
+{u'Adverb': ['in a hopeless resigned manner']}
+abjuration
+{u'Noun': ['a disavowal or taking back of a previous assertion']}
+abjurations
+{u'Noun': ['a disavowal or taking back of a previous assertion']}
+abjure
+{u'Verb': ['formally reject or disavow a formerly held belief, usually under pressure']}
+abjured
+{u'Verb': ['formally reject or disavow a formerly held belief, usually under pressure']}
+abjurer
+{u'Noun': ['a person who abjures']}
+abjurers
+{u'Noun': ['a person who abjures']}
+abjures
+{u'Verb': ['formally reject or disavow a formerly held belief, usually under pressure']}
+abjuring
+{u'Verb': ['formally reject or disavow a formerly held belief, usually under pressure']}
+ablactation
+{u'Noun': ['the cessation of lactation', "the act of substituting other food for the mother's milk in the diet of a child or young mammal"]}
+ablate
+{u'Verb': ['wear away through erosion or vaporization', 'remove an organ or bodily structure']}
+ablated
+{u'Adjective': ['made smaller or less by melting or erosion or vaporization'], u'Verb': ['wear away through erosion or vaporization', 'remove an organ or bodily structure']}
+ablates
+{u'Verb': ['wear away through erosion or vaporization', 'remove an organ or bodily structure']}
+ablating
+{u'Verb': ['wear away through erosion or vaporization', 'remove an organ or bodily structure']}
+ablation
+{u'Noun': ['surgical removal of a body part or tissue', 'the erosive process that reduces the size of glaciers']}
+ablations
+{u'Noun': ['surgical removal of a body part or tissue', 'the erosive process that reduces the size of glaciers']}
+ablative
+{u'Adjective': ['relating to the ablative case', 'tending to ablate; i.e. to be removed or vaporized at very high temperature'], u'Noun': ['the case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb']}
+ablatives
+{u'Noun': ['the case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb']}
+ablaut
+{u'Noun': ['a vowel whose quality or length is changed to indicate linguistic distinctions (such as sing sang sung song']}
+ablauts
+{u'Noun': ['a vowel whose quality or length is changed to indicate linguistic distinctions (such as sing sang sung song']}
+ablaze
+{u'Adjective': ['keenly excited (especially sexually', 'lighted up by or as by fire or flame', 'or afire', 'resembling flame in brilliance or color', 'lighted with red light as if with flames']}
+able
+{u'Adjective': ["(usually followed by `to'", 'have the skills and qualifications to do things well', 'having inherent physical or mental ability or capacity', 'having a strong healthy body']}
+abler
+{u'Adjective': ["(usually followed by `to'", 'have the skills and qualifications to do things well', 'having inherent physical or mental ability or capacity', 'having a strong healthy body']}
+ablest
+{u'Adjective': ["(usually followed by `to'", 'have the skills and qualifications to do things well', 'having inherent physical or mental ability or capacity', 'having a strong healthy body']}
+abloom
+{u'Adjective': ['bursting into flower']}
+ablution
+{u'Noun': ["the ritual washing of a priest's hands or of sacred vessels"]}
+ablutionary
+{u'Adjective': ['cleansing the body by washing; especially ritual washing of e.g. hands']}
+ablutions
+{u'Noun': ["the ritual washing of a priest's hands or of sacred vessels"]}
+ably
+{u'Adverb': ['with competence; in a competent capable manner']}
+abnegate
+{u'Verb': ['deny oneself (something', 'surrender (power or a position', 'deny or renounce']}
+abnegated
+{u'Verb': ['deny oneself (something', 'surrender (power or a position', 'deny or renounce']}
+abnegates
+{u'Verb': ['deny oneself (something', 'surrender (power or a position', 'deny or renounce']}
+abnegating
+{u'Verb': ['deny oneself (something', 'surrender (power or a position', 'deny or renounce']}
+abnegation
+{u'Noun': ['the denial and rejection of a doctrine or belief', 'renunciation of your own interests in favor of the interests of others']}
+abnegations
+{u'Noun': ['the denial and rejection of a doctrine or belief', 'renunciation of your own interests in favor of the interests of others']}
+abnegator
+{u'Noun': ['one who gives up or relinquishes or renounces something']}
+abnegators
+{u'Noun': ['one who gives up or relinquishes or renounces something']}
+abnormal
+{u'Adjective': ['not normal; not typical or usual or regular or conforming to a norm', 'departing from the normal in e.g. intelligence and development', 'much greater than the normal']}
+abnormalities
+{u'Noun': ['an abnormal physical condition resulting from defective genes or developmental deficiencies', 'retardation sufficient to fall outside the normal range of intelligence', 'marked strangeness as a consequence of being abnormal', 'behavior that breaches the rule or etiquette or custom or morality']}
+abnormality
+{u'Noun': ['an abnormal physical condition resulting from defective genes or developmental deficiencies', 'retardation sufficient to fall outside the normal range of intelligence', 'marked strangeness as a consequence of being abnormal', 'behavior that breaches the rule or etiquette or custom or morality']}
+abnormally
+{u'Adverb': ['in an abnormal manner']}
+aboard
+{u'Adverb': ['on a ship, train, plane or other vehicle', 'on first or second or third base', 'side by side', 'part of a group']}
+abode
+{u'Verb': ['put up with something or somebody unpleasant'], u'Noun': ['any address at which you dwell more than temporarily', 'housing that someone is living in']}
+abodes
+{u'Noun': ['any address at which you dwell more than temporarily', 'housing that someone is living in']}
+abolish
+{u'Verb': ['do away with']}
+abolishable
+{u'Adjective': ['capable of being abolished']}
+abolished
+{u'Verb': ['do away with']}
+abolishes
+{u'Verb': ['do away with']}
+abolishing
+{u'Verb': ['do away with']}
+abolishment
+{u'Noun': ['the act of abolishing a system or practice or institution (especially abolishing slavery']}
+abolishments
+{u'Noun': ['the act of abolishing a system or practice or institution (especially abolishing slavery']}
+abolition
+{u'Noun': ['the act of abolishing a system or practice or institution (especially abolishing slavery']}
+abolitionary
+{u'Adjective': ['relating to or favoring abolition, especially abolition of slavery']}
+abolitionism
+{u'Noun': ['the doctrine that calls for the abolition of slavery']}
+abolitionist
+{u'Noun': ['a reformer who favors abolishing slavery']}
+abolitionists
+{u'Noun': ['a reformer who favors abolishing slavery']}
+abolitions
+{u'Noun': ['the act of abolishing a system or practice or institution (especially abolishing slavery']}
+abomasa
+{u'Noun': ['the fourth compartment of the stomach of a ruminant; the one where digestion takes place']}
+abomasal
+{u'Adjective': ['relating to the abomasum (the fourth compartment of the stomach of ruminants']}
+abomasum
+{u'Noun': ['the fourth compartment of the stomach of a ruminant; the one where digestion takes place']}
+abominable
+{u'Adjective': ['unequivocally detestable', 'exceptionally bad or displeasing']}
+abominably
+{u'Adverb': ['in an offensive and hateful manner', 'in a terrible manner']}
+abominate
+{u'Verb': ['find repugnant']}
+abominated
+{u'Verb': ['find repugnant']}
+abominates
+{u'Verb': ['find repugnant']}
+abominating
+{u'Verb': ['find repugnant']}
+abomination
+{u'Noun': ['a person who is loathsome or disgusting', 'hate coupled with disgust', 'an action that is vicious or vile; an action that arouses disgust or abhorrence']}
+abominations
+{u'Noun': ['a person who is loathsome or disgusting', 'hate coupled with disgust', 'an action that is vicious or vile; an action that arouses disgust or abhorrence']}
+abominator
+{u'Noun': ['one who hates or loathes']}
+abominators
+{u'Noun': ['one who hates or loathes']}
+aboral
+{u'Adjective': ['opposite to or away from the mouth']}
+aboriginal
+{u'Adjective': ['characteristic of or relating to people inhabiting a region from the beginning', 'having existed from the beginning; in an earliest or original stage or state'], u'Noun': ['an indigenous person who was born in a particular place']}
+aboriginals
+{u'Noun': ['an indigenous person who was born in a particular place']}
+aborigine
+{u'Noun': ['an indigenous person who was born in a particular place', 'a member of the people living in Australia when Europeans arrived']}
+aborigines
+{u'Noun': ['an indigenous person who was born in a particular place', 'a member of the people living in Australia when Europeans arrived']}
+abort
+{u'Verb': ['terminate before completion', 'cease development, die, and be aborted', 'terminate a pregnancy by undergoing an abortion'], u'Noun': ['the act of terminating a project or procedure before it is completed']}
+aborted
+{u'Verb': ['terminate before completion', 'cease development, die, and be aborted', 'terminate a pregnancy by undergoing an abortion']}
+aborticide
+{u'Noun': ['a drug (or other chemical agent', 'the act of destroying a fetus']}
+aborticides
+{u'Noun': ['a drug (or other chemical agent', 'the act of destroying a fetus']}
+abortifacient
+{u'Adjective': ['causing abortion'], u'Noun': ['a drug (or other chemical agent']}
+abortifacients
+{u'Noun': ['a drug (or other chemical agent']}
+aborting
+{u'Verb': ['terminate before completion', 'cease development, die, and be aborted', 'terminate a pregnancy by undergoing an abortion']}
+abortion
+{u'Noun': ['termination of pregnancy', 'failure of a plan']}
+abortionist
+{u'Noun': ['a person (who should be a doctor']}
+abortionists
+{u'Noun': ['a person (who should be a doctor']}
+abortions
+{u'Noun': ['termination of pregnancy', 'failure of a plan']}
+abortive
+{u'Adjective': ['failing to accomplish an intended result']}
+abortively
+{u'Adverb': ['in an unfruitful manner']}
+aborts
+{u'Verb': ['terminate before completion', 'cease development, die, and be aborted', 'terminate a pregnancy by undergoing an abortion'], u'Noun': ['the act of terminating a project or procedure before it is completed']}
+abought
+{u'Verb': ['make amends for', 'make amends for']}
+aboulia
+{u'Noun': ['a loss of will power']}
+abound
+{u'Verb': ['be abundant or plentiful; exist in large quantities', 'be in a state of movement or action']}
+abounded
+{u'Verb': ['be abundant or plentiful; exist in large quantities', 'be in a state of movement or action']}
+abounding
+{u'Adjective': ['existing in abundance'], u'Verb': ['be abundant or plentiful; exist in large quantities', 'be in a state of movement or action']}
+abounds
+{u'Verb': ['be abundant or plentiful; exist in large quantities', 'be in a state of movement or action']}
+about
+{u'Adjective': ['on the move'], u'Adverb': ['(of quantities', 'all around or on all sides', 'or about', 'in the area or vicinity', 'used of movement to or among many different places or in no particular direction', 'or about', 'in or to a reversed position or direction', 'in rotation or succession', '(of actions or states']}
+above
+{u'Adjective': ['appearing earlier in the same text'], u'Noun': ['an earlier section of a written text'], u'Adverb': ['(in writing', 'in or to a place that is higher']}
+aboveground
+{u'Adjective': ['on or above the surface of the ground']}
+abracadabra
+{u'Noun': ['gibberish and nonsense']}
+abracadabras
+{u'Noun': ['gibberish and nonsense']}
+abradant
+{u'Noun': ['a substance that abrades or wears down', 'a tool or machine used for wearing down or smoothing or polishing']}
+abradants
+{u'Noun': ['a substance that abrades or wears down', 'a tool or machine used for wearing down or smoothing or polishing']}
+abrade
+{u'Verb': ['wear away', 'rub hard or scrub']}
+abraded
+{u'Verb': ['wear away', 'rub hard or scrub']}
+abrader
+{u'Noun': ['a tool or machine used for wearing down or smoothing or polishing']}
+abraders
+{u'Noun': ['a tool or machine used for wearing down or smoothing or polishing']}
+abrades
+{u'Verb': ['wear away', 'rub hard or scrub']}
+abrading
+{u'Verb': ['wear away', 'rub hard or scrub']}
+abraham
+{u'Noun': ["the first of the Old Testament patriarchs and the father of Isaac; according to Genesis, God promised to give Abraham's family (the Hebrews", 'the Promised Land']}
+abranchial
+{u'Adjective': ['having no gills']}
+abranchiate
+{u'Adjective': ['having no gills']}
+abrasion
+{u'Noun': ['an abraded area where the skin is torn or worn off', 'erosion by friction', 'the wearing down of rock particles by friction due to water or wind or ice']}
+abrasions
+{u'Noun': ['an abraded area where the skin is torn or worn off', 'erosion by friction', 'the wearing down of rock particles by friction due to water or wind or ice']}
+abrasive
+{u'Adjective': ['causing abrasion', 'sharply disagreeable; rigorous'], u'Noun': ['a substance that abrades or wears down']}
+abrasiveness
+{u'Noun': ['the roughness of a substance that causes abrasions', 'the quality of being sharply disagreeable']}
+abrasives
+{u'Noun': ['a substance that abrades or wears down']}
+abreact
+{u'Verb': ['discharge bad feelings or tension through verbalization']}
+abreacted
+{u'Verb': ['discharge bad feelings or tension through verbalization']}
+abreacting
+{u'Verb': ['discharge bad feelings or tension through verbalization']}
+abreaction
+{u'Noun': ['(psychoanalysis']}
+abreactions
+{u'Noun': ['(psychoanalysis']}
+abreacts
+{u'Verb': ['discharge bad feelings or tension through verbalization']}
+abreast
+{u'Adjective': ['being up to particular standard or level especially in being up to date in knowledge'], u'Adverb': ['alongside each other, facing in the same direction']}
+abridge
+{u'Verb': ['reduce in scope while retaining essential elements', 'lessen, diminish, or curtail']}
+abridged
+{u'Adjective': ['(used of texts'], u'Verb': ['reduce in scope while retaining essential elements', 'lessen, diminish, or curtail']}
+abridgement
+{u'Noun': ['a shortened version of a written work']}
+abridgements
+{u'Noun': ['a shortened version of a written work']}
+abridger
+{u'Noun': ['one who shortens or abridges or condenses a written work']}
+abridgers
+{u'Noun': ['one who shortens or abridges or condenses a written work']}
+abridges
+{u'Verb': ['reduce in scope while retaining essential elements', 'lessen, diminish, or curtail']}
+abridging
+{u'Verb': ['reduce in scope while retaining essential elements', 'lessen, diminish, or curtail']}
+abridgment
+{u'Noun': ['a shortened version of a written work']}
+abridgments
+{u'Noun': ['a shortened version of a written work']}
+abroach
+{u'Adjective': ['of a cask or barrel']}
+abroad
+{u'Adjective': ['in a foreign country'], u'Adverb': ['to or in a foreign country', "far away from home or one's usual surroundings", 'in a place across an ocean']}
+abrogate
+{u'Verb': ['revoke formally']}
+abrogated
+{u'Verb': ['revoke formally']}
+abrogates
+{u'Verb': ['revoke formally']}
+abrogating
+{u'Verb': ['revoke formally']}
+abrogation
+{u'Noun': ['the act of abrogating; an official or legal cancellation']}
+abrogations
+{u'Noun': ['the act of abrogating; an official or legal cancellation']}
+abrogator
+{u'Noun': ['an authority or official empowered to abolish or annul or repeal']}
+abrogators
+{u'Noun': ['an authority or official empowered to abolish or annul or repeal']}
+abrupt
+{u'Adjective': ['marked by sudden changes in subject and sharp transitions', 'exceedingly sudden and unexpected', 'extremely steep', 'surprisingly and unceremoniously brusque in manner']}
+abrupter
+{u'Adjective': ['marked by sudden changes in subject and sharp transitions', 'exceedingly sudden and unexpected', 'extremely steep', 'surprisingly and unceremoniously brusque in manner']}
+abruptest
+{u'Adjective': ['marked by sudden changes in subject and sharp transitions', 'exceedingly sudden and unexpected', 'extremely steep', 'surprisingly and unceremoniously brusque in manner']}
+abruption
+{u'Noun': ['an instance of sudden interruption']}
+abruptions
+{u'Noun': ['an instance of sudden interruption']}
+abruptly
+{u'Adverb': ['quickly and without warning']}
+abruptness
+{u'Noun': ['an abrupt discourteous manner', 'the property possessed by a slope that is very steep', 'the quality of happening with headlong haste or without warning']}
+abscess
+{u'Noun': ['symptom consisting of a localized collection of pus surrounded by inflamed tissue']}
+abscessed
+{u'Adjective': ['infected and filled with pus']}
+abscesses
+{u'Noun': ['symptom consisting of a localized collection of pus surrounded by inflamed tissue']}
+abscise
+{u'Verb': ['shed flowers and leaves and fruit following formation of a scar tissue', 'remove or separate by abscission']}
+abscised
+{u'Verb': ['shed flowers and leaves and fruit following formation of a scar tissue', 'remove or separate by abscission']}
+abscises
+{u'Verb': ['shed flowers and leaves and fruit following formation of a scar tissue', 'remove or separate by abscission']}
+abscising
+{u'Verb': ['shed flowers and leaves and fruit following formation of a scar tissue', 'remove or separate by abscission']}
+abscissa
+{u'Noun': ['the value of a coordinate on the horizontal axis']}
+abscissae
+{u'Noun': ['the value of a coordinate on the horizontal axis']}
+abscissas
+{u'Noun': ['the value of a coordinate on the horizontal axis']}
+abscission
+{u'Noun': ['shedding of flowers and leaves and fruit following formation of scar tissue in a plant', 'the act of cutting something off']}
+abscissions
+{u'Noun': ['shedding of flowers and leaves and fruit following formation of scar tissue in a plant', 'the act of cutting something off']}
+abscond
+{u'Verb': ['run away; usually includes taking something or somebody along']}
+absconded
+{u'Verb': ['run away; usually includes taking something or somebody along']}
+absconder
+{u'Noun': ['a fugitive who runs away and hides to avoid arrest or prosecution']}
+absconders
+{u'Noun': ['a fugitive who runs away and hides to avoid arrest or prosecution']}
+absconding
+{u'Verb': ['run away; usually includes taking something or somebody along']}
+absconds
+{u'Verb': ['run away; usually includes taking something or somebody along']}
+abseil
+{u'Verb': ['descend by means of a rappel'], u'Noun': ['(mountaineering']}
+abseiled
+{u'Verb': ['descend by means of a rappel']}
+abseiler
+{u'Noun': ['a person who descends down a nearly vertical face by using a doubled rope that is wrapped around the body and attached to some high point']}
+abseilers
+{u'Noun': ['a person who descends down a nearly vertical face by using a doubled rope that is wrapped around the body and attached to some high point']}
+abseiling
+{u'Verb': ['descend by means of a rappel']}
+abseils
+{u'Verb': ['descend by means of a rappel'], u'Noun': ['(mountaineering']}
+absence
+{u'Noun': ['the state of being absent', 'failure to be present', 'the time interval during which something or somebody is away', 'the occurrence of an abrupt, transient loss or impairment of consciousness (which is not subsequently remembered']}
+absences
+{u'Noun': ['the state of being absent', 'failure to be present', 'the time interval during which something or somebody is away', 'the occurrence of an abrupt, transient loss or impairment of consciousness (which is not subsequently remembered']}
+absent
+{u'Adjective': ['not being in a specified place', 'nonexistent', 'lost in thought; showing preoccupation'], u'Verb': ['go away or leave']}
+absented
+{u'Verb': ['go away or leave']}
+absentee
+{u'Noun': ['one that is absent or not in residence']}
+absenteeism
+{u'Noun': ['habitual absence from work']}
+absentees
+{u'Noun': ['one that is absent or not in residence']}
+absenting
+{u'Verb': ['go away or leave']}
+absently
+{u'Adverb': ['in an absentminded or preoccupied manner']}
+absentminded
+{u'Adjective': ['lost in thought; showing preoccupation']}
+absentmindedly
+{u'Adverb': ['in an absentminded or preoccupied manner']}
+absents
+{u'Verb': ['go away or leave']}
+absinth
+{u'Noun': ['strong green liqueur flavored with wormwood and anise']}
+absinthe
+{u'Noun': ['aromatic herb of temperate Eurasia and North Africa having a bitter taste used in making the liqueur absinthe', 'strong green liqueur flavored with wormwood and anise']}
+absinthes
+{u'Noun': ['aromatic herb of temperate Eurasia and North Africa having a bitter taste used in making the liqueur absinthe', 'strong green liqueur flavored with wormwood and anise']}
+absinths
+{u'Noun': ['strong green liqueur flavored with wormwood and anise']}
+absolute
+{u'Adjective': ['perfect or complete or pure', 'complete and without restriction or qualification; sometimes used informally as intensifiers', 'not limited by law', 'expressing finality with no implication of possible change', 'not capable of being violated or infringed'], u'Noun': ['something that is conceived or that exists independently and not in relation to other things; something that does not depend on anything else and is beyond human control; something that is not relative']}
+absolutely
+{u'Adverb': ['completely and without qualification; used informally as intensifiers', 'totally and definitely; without question']}
+absoluteness
+{u'Noun': ['the quality of being complete or utter or extreme', 'the quality of being absolute']}
+absolutes
+{u'Noun': ['something that is conceived or that exists independently and not in relation to other things; something that does not depend on anything else and is beyond human control; something that is not relative']}
+absolution
+{u'Noun': ['the condition of being formally forgiven by a priest in the sacrament of penance', 'the act of absolving or remitting; formal redemption as pronounced by a priest in the sacrament of penance']}
+absolutions
+{u'Noun': ['the condition of being formally forgiven by a priest in the sacrament of penance', 'the act of absolving or remitting; formal redemption as pronounced by a priest in the sacrament of penance']}
+absolutism
+{u'Noun': ['dominance through threat of punishment and violence', 'a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.', 'the principle of complete and unrestricted power in government', 'the doctrine of an absolute being']}
+absolutist
+{u'Adjective': ['pertaining to the principle of totalitarianism'], u'Noun': ['one who advocates absolutism']}
+absolutists
+{u'Noun': ['one who advocates absolutism']}
+absolve
+{u'Verb': ['grant remission of a sin to', 'let off the hook']}
+absolved
+{u'Adjective': ['freed from any question of guilt'], u'Verb': ['grant remission of a sin to', 'let off the hook']}
+absolver
+{u'Noun': ['someone who grants absolution']}
+absolvers
+{u'Noun': ['someone who grants absolution']}
+absolves
+{u'Verb': ['grant remission of a sin to', 'let off the hook']}
+absolving
+{u'Verb': ['grant remission of a sin to', 'let off the hook']}
+absorb
+{u'Verb': ['become imbued', 'take up mentally', 'take up, as of debts or payments', 'take in, also metaphorically', 'cause to become one with', 'suck or take up or in', 'devote (oneself', 'assimilate or take in', "consume all of one's attention or time"]}
+absorbable
+{u'Adjective': ['capable of being absorbed or taken in through the pores of a surface']}
+absorbed
+{u'Adjective': ['giving or marked by complete attention to', 'retained without reflection'], u'Verb': ['become imbued', 'take up mentally', 'take up, as of debts or payments', 'take in, also metaphorically', 'cause to become one with', 'suck or take up or in', 'devote (oneself', 'assimilate or take in', "consume all of one's attention or time"]}
+absorbefacient
+{u'Adjective': ['inducing or promoting absorption']}
+absorbencies
+{u'Noun': ['the property of being absorbent']}
+absorbency
+{u'Noun': ['the property of being absorbent']}
+absorbent
+{u'Adjective': ['having power or capacity or tendency to absorb or soak up something (liquids or energy etc.'], u'Noun': ['a material having capacity or tendency to absorb another substance']}
+absorbents
+{u'Noun': ['a material having capacity or tendency to absorb another substance']}
+absorber
+{u'Noun': ['(physics']}
+absorbers
+{u'Noun': ['(physics']}
+absorbing
+{u'Adjective': ['capable of arousing and holding the attention'], u'Verb': ['become imbued', 'take up mentally', 'take up, as of debts or payments', 'take in, also metaphorically', 'cause to become one with', 'suck or take up or in', 'devote (oneself', 'assimilate or take in', "consume all of one's attention or time"]}
+absorbs
+{u'Verb': ['become imbued', 'take up mentally', 'take up, as of debts or payments', 'take in, also metaphorically', 'cause to become one with', 'suck or take up or in', 'devote (oneself', 'assimilate or take in', "consume all of one's attention or time"]}
+absorption
+{u'Noun': ['(chemistry', '(physics', 'the social process of absorbing one cultural group into harmony with another', 'the process of absorbing nutrients into the body after digestion', 'complete attention; intense mental effort', 'the mental state of being preoccupied by something']}
+absorptions
+{u'Noun': ['(chemistry', '(physics', 'the social process of absorbing one cultural group into harmony with another', 'the process of absorbing nutrients into the body after digestion', 'complete attention; intense mental effort', 'the mental state of being preoccupied by something']}
+absorptive
+{u'Adjective': ['having power or capacity or tendency to absorb or soak up something (liquids or energy etc.']}
+absorptivity
+{u'Noun': ['(physics']}
+absquatulate
+{u'Verb': ['run away; usually includes taking something or somebody along']}
+absquatulated
+{u'Verb': ['run away; usually includes taking something or somebody along']}
+absquatulates
+{u'Verb': ['run away; usually includes taking something or somebody along']}
+absquatulating
+{u'Verb': ['run away; usually includes taking something or somebody along']}
+abstain
+{u'Verb': ['refrain from voting', 'choose not to consume']}
+abstained
+{u'Verb': ['refrain from voting', 'choose not to consume']}
+abstainer
+{u'Noun': ['someone who practices self denial as a spiritual discipline', 'a person who refrains from drinking intoxicating beverages']}
+abstainers
+{u'Noun': ['someone who practices self denial as a spiritual discipline', 'a person who refrains from drinking intoxicating beverages']}
+abstaining
+{u'Verb': ['refrain from voting', 'choose not to consume']}
+abstains
+{u'Verb': ['refrain from voting', 'choose not to consume']}
+abstemious
+{u'Adjective': ['sparing in consumption of especially food and drink', 'marked by temperance in indulgence']}
+abstemiously
+{u'Adverb': ['in a sparing manner; without overindulgence']}
+abstemiousness
+{u'Noun': ['restricted to bare necessities', 'moderation in eating and drinking']}
+abstention
+{u'Noun': ['the trait of abstaining (especially from alcohol']}
+abstentions
+{u'Noun': ['the trait of abstaining (especially from alcohol']}
+abstentious
+{u'Adjective': ['self-restraining; not indulging an appetite especially for food or drink']}
+abstinence
+{u'Noun': ['the trait of abstaining (especially from alcohol', 'act or practice of refraining from indulging an appetite']}
+abstinences
+{u'Noun': ['the trait of abstaining (especially from alcohol', 'act or practice of refraining from indulging an appetite']}
+abstinent
+{u'Adjective': ['self-restraining; not indulging an appetite especially for food or drink'], u'Noun': ['a person who refrains from drinking intoxicating beverages']}
+abstract
+{u'Adjective': ['existing only in the mind; separated from embodiment', 'not representing or imitating external reality or the objects of nature', 'dealing with a subject in the abstract without practical purpose or intention'], u'Verb': ['consider a concept without thinking of a specific example; consider abstractly or theoretically', 'make off with belongings of others', 'consider apart from a particular case or instance', 'give an abstract (of'], u'Noun': ['a concept or idea not associated with any specific instance', 'a sketchy summary of the main points of an argument or theory']}
+abstracted
+{u'Adjective': ['lost in thought; showing preoccupation'], u'Verb': ['consider a concept without thinking of a specific example; consider abstractly or theoretically', 'make off with belongings of others', 'consider apart from a particular case or instance', 'give an abstract (of']}
+abstractedly
+{u'Adverb': ['in an absentminded or preoccupied manner']}
+abstractedness
+{u'Noun': ['preoccupation with something to the exclusion of all else']}
+abstracter
+{u'Noun': ['one who makes abstracts or summarizes information']}
+abstracters
+{u'Noun': ['one who makes abstracts or summarizes information']}
+abstractest
+{u'Adjective': ['existing only in the mind; separated from embodiment', 'not representing or imitating external reality or the objects of nature', 'dealing with a subject in the abstract without practical purpose or intention']}
+abstracting
+{u'Verb': ['consider a concept without thinking of a specific example; consider abstractly or theoretically', 'make off with belongings of others', 'consider apart from a particular case or instance', 'give an abstract (of']}
+abstraction
+{u'Noun': ['a concept or idea not associated with any specific instance', 'the act of withdrawing or removing something', 'the process of formulating general concepts by abstracting common properties of instances', 'an abstract painting', 'preoccupation with something to the exclusion of all else', 'a general concept formed by extracting common features from specific examples']}
+abstractionism
+{u'Noun': ['an abstract genre of art; artistic content depends on internal form rather than pictorial representation', 'a representation having no reference to concrete objects or specific examples']}
+abstractionist
+{u'Adjective': ['not representing or imitating external reality or the objects of nature'], u'Noun': ['a painter of abstract pictures']}
+abstractionists
+{u'Noun': ['a painter of abstract pictures']}
+abstractions
+{u'Noun': ['a concept or idea not associated with any specific instance', 'the act of withdrawing or removing something', 'the process of formulating general concepts by abstracting common properties of instances', 'an abstract painting', 'preoccupation with something to the exclusion of all else', 'a general concept formed by extracting common features from specific examples']}
+abstractive
+{u'Adjective': ['of an abstracting nature or having the power of abstracting']}
+abstractly
+{u'Adverb': ['in abstract terms']}
+abstractness
+{u'Noun': ['the quality of being considered apart from a specific instance or object']}
+abstractor
+{u'Noun': ['one who makes abstracts or summarizes information']}
+abstractors
+{u'Noun': ['one who makes abstracts or summarizes information']}
+abstracts
+{u'Verb': ['consider a concept without thinking of a specific example; consider abstractly or theoretically', 'make off with belongings of others', 'consider apart from a particular case or instance', 'give an abstract (of'], u'Noun': ['a concept or idea not associated with any specific instance', 'a sketchy summary of the main points of an argument or theory']}
+abstruse
+{u'Adjective': ['difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge']}
+abstrusely
+{u'Adverb': ['in a manner difficult to understand']}
+abstruseness
+{u'Noun': ['the quality of being unclear or abstruse and hard to understand', 'wisdom that is recondite and abstruse and profound']}
+abstruser
+{u'Adjective': ['difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge']}
+abstrusest
+{u'Adjective': ['difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge']}
+absurd
+{u'Adjective': ['inconsistent with reason or logic or common sense', 'so unreasonable as to invite derision'], u'Noun': ['a situation in which life seems irrational and meaningless']}
+absurder
+{u'Adjective': ['inconsistent with reason or logic or common sense', 'so unreasonable as to invite derision']}
+absurdest
+{u'Adjective': ['inconsistent with reason or logic or common sense', 'so unreasonable as to invite derision']}
+absurdities
+{u'Noun': ['a message whose content is at variance with reason', 'a ludicrous folly']}
+absurdity
+{u'Noun': ['a message whose content is at variance with reason', 'a ludicrous folly']}
+absurdly
+{u'Adverb': ['in an absurd manner or to an absurd degree']}
+absurdness
+{u'Noun': ['a message whose content is at variance with reason']}
+absurdnesses
+{u'Noun': ['a message whose content is at variance with reason']}
+abulia
+{u'Noun': ['a loss of will power']}
+abundance
+{u'Noun': ['the property of a more than adequate quantity or supply', '(physics', '(chemistry']}
+abundances
+{u'Noun': ['the property of a more than adequate quantity or supply', '(physics', '(chemistry']}
+abundant
+{u'Adjective': ['present in great quantity']}
+abundantly
+{u'Adverb': ['in an abundant manner']}
+abuse
+{u'Verb': ['treat badly', 'change the inherent purpose or function of something', 'use foul or abusive language towards', 'use wrongly or improperly or excessively'], u'Noun': ['cruel or inhumane treatment', 'a rude expression intended to offend or hurt', 'improper or excessive use']}
+abused
+{u'Adjective': ['used improperly or excessively especially drugs', 'subjected to cruel treatment'], u'Verb': ['treat badly', 'change the inherent purpose or function of something', 'use foul or abusive language towards', 'use wrongly or improperly or excessively']}
+abuser
+{u'Noun': ['someone who abuses']}
+abusers
+{u'Noun': ['someone who abuses']}
+abuses
+{u'Verb': ['treat badly', 'change the inherent purpose or function of something', 'use foul or abusive language towards', 'use wrongly or improperly or excessively'], u'Noun': ['cruel or inhumane treatment', 'a rude expression intended to offend or hurt', 'improper or excessive use']}
+abusing
+{u'Verb': ['treat badly', 'change the inherent purpose or function of something', 'use foul or abusive language towards', 'use wrongly or improperly or excessively']}
+abusive
+{u'Adjective': ['expressing offensive reproach', 'characterized by physical or psychological maltreatment']}
+abusively
+{u'Adverb': ['in an abusive manner']}
+abut
+{u'Verb': ['lie adjacent to another or share a boundary']}
+abutilon
+{u'Noun': ['herbs or shrubs or small trees: flowering maple; Indian mallow']}
+abutilons
+{u'Noun': ['herbs or shrubs or small trees: flowering maple; Indian mallow']}
+abutment
+{u'Noun': ['point of contact between two objects or parts', 'a masonry support that touches and directly receives thrust or pressure of an arch or bridge']}
+abutments
+{u'Noun': ['point of contact between two objects or parts', 'a masonry support that touches and directly receives thrust or pressure of an arch or bridge']}
+abuts
+{u'Verb': ['lie adjacent to another or share a boundary']}
+abutted
+{u'Verb': ['lie adjacent to another or share a boundary']}
+abutter
+{u'Noun': ['the owner of contiguous property']}
+abutters
+{u'Noun': ['the owner of contiguous property']}
+abutting
+{u'Verb': ['lie adjacent to another or share a boundary']}
+abuzz
+{u'Adjective': ['noisy like the sound of a bee']}
+abvolt
+{u'Noun': ['a unit of potential equal to one-hundred-millionth of a volt']}
+abvolts
+{u'Noun': ['a unit of potential equal to one-hundred-millionth of a volt']}
+aby
+{u'Verb': ['make amends for']}
+abydos
+{u'Noun': ['an ancient Greek colony on the Asiatic side of the Dardanelles; scene of the legend of Hero and Leander']}
+abye
+{u'Verb': ['make amends for']}
+abyeing
+{u'Verb': ['make amends for']}
+abyes
+{u'Verb': ['make amends for']}
+abying
+{u'Verb': ['make amends for', 'make amends for']}
+abysm
+{u'Noun': ['a bottomless gulf or pit; any unfathomable (or apparently unfathomable', 'often used figuratively']}
+abysmal
+{u'Adjective': ['very great; limitless', 'resembling an abyss in depth; so deep as to be unmeasurable']}
+abysmally
+{u'Adverb': ['in a terrible manner']}
+abysms
+{u'Noun': ['a bottomless gulf or pit; any unfathomable (or apparently unfathomable', 'often used figuratively']}
+abyss
+{u'Noun': ['a bottomless gulf or pit; any unfathomable (or apparently unfathomable', 'often used figuratively']}
+abyssal
+{u'Adjective': ['relating to ocean depths from 2000 to 5000 meters', 'resembling an abyss in depth; so deep as to be unmeasurable']}
+abysses
+{u'Noun': ['a bottomless gulf or pit; any unfathomable (or apparently unfathomable', 'often used figuratively']}
+abyssinia
+{u'Noun': ['Ethiopia is a republic in northeastern Africa on the Red Sea; formerly called Abyssinia']}
+abyssinian
+{u'Noun': ['a small slender short-haired breed of African origin having brownish fur with a reddish undercoat']}
+abyssinians
+{u'Noun': ['a small slender short-haired breed of African origin having brownish fur with a reddish undercoat']}
+acacia
+{u'Noun': ['any of various spiny trees or shrubs of the genus Acacia']}
+acacias
+{u'Noun': ['any of various spiny trees or shrubs of the genus Acacia']}
+academe
+{u'Noun': ['the academic world']}
+academes
+{u'Noun': ['the academic world']}
+academia
+{u'Noun': ['the academic world']}
+academic
+{u'Adjective': ['associated with academia or an academy', 'hypothetical or theoretical and not expected to produce an immediate or practical result', 'marked by a narrow focus on or display of learning especially its trivial aspects'], u'Noun': ['an educator who works at a college or university']}
+academically
+{u'Adverb': ['in regard to academic matters']}
+academician
+{u'Noun': ['someone elected to honorary membership in an academy', 'a scholar who is skilled in academic disputation', 'an educator who works at a college or university']}
+academicians
+{u'Noun': ['someone elected to honorary membership in an academy', 'a scholar who is skilled in academic disputation', 'an educator who works at a college or university']}
+academicism
+{u'Noun': ['orthodoxy of a scholastic variety']}
+academics
+{u'Noun': ['an educator who works at a college or university']}
+academies
+{u'Noun': ['a secondary school (usually private', 'an institution for the advancement of art or science or literature', 'a school for special training', 'a learned establishment for the advancement of knowledge']}
+academism
+{u'Noun': ['orthodoxy of a scholastic variety']}
+academy
+{u'Noun': ['a secondary school (usually private', 'an institution for the advancement of art or science or literature', 'a school for special training', 'a learned establishment for the advancement of knowledge']}
+acadian
+{u'Noun': ['an early French settler in the Maritimes']}
+acantha
+{u'Noun': ['any sharply pointed projection']}
+acanthaceae
+{u'Noun': ['widely distributed herbs and shrubs and trees; sometimes placed in the order Scrophulariales']}
+acanthas
+{u'Noun': ['any sharply pointed projection']}
+acanthocephala
+{u'Noun': ['phylum or class of elongated wormlike parasites that live in the intestines of vertebrates: spiny-headed worms']}
+acanthocephalan
+{u'Noun': ['any of various worms living parasitically in intestines of vertebrates having a retractile proboscis covered with many hooked spines']}
+acanthoid
+{u'Adjective': ['shaped like a spine or thorn']}
+acanthopterygian
+{u'Noun': ['a teleost fish with fins that are supported by sharp inflexible rays']}
+acanthous
+{u'Adjective': ['shaped like a spine or thorn']}
+acanthus
+{u'Noun': ['any plant of the genus Acanthus having large spiny leaves and spikes or white or purplish flowers; native to Mediterranean region but widely cultivated']}
+acanthuses
+{u'Noun': ['any plant of the genus Acanthus having large spiny leaves and spikes or white or purplish flowers; native to Mediterranean region but widely cultivated']}
+acapnia
+{u'Noun': ['a state in which the level of carbon dioxide in the blood is lower than normal; can result from deep or rapid breathing']}
+acapulco
+{u'Noun': ['a port and fashionable resort city on the Pacific coast of southern Mexico; known for beaches and water sports (including cliff diving']}
+acari
+{u'Noun': ['any of several mites of the order Acarina']}
+acariasis
+{u'Noun': ['infestation with itch mites']}
+acaricide
+{u'Noun': ['a chemical agent used to kill mites']}
+acaricides
+{u'Noun': ['a chemical agent used to kill mites']}
+acarid
+{u'Noun': ['very small free-living arachnid that is parasitic on animals or plants; related to ticks']}
+acarids
+{u'Noun': ['very small free-living arachnid that is parasitic on animals or plants; related to ticks']}
+acarina
+{u'Noun': ['mites and ticks']}
+acarine
+{u'Noun': ['mite or tick']}
+acarpellous
+{u'Adjective': ['having no carpels']}
+acarpelous
+{u'Adjective': ['having no carpels']}
+acarpous
+{u'Adjective': ['producing no fruit']}
+acarus
+{u'Noun': ['any of several mites of the order Acarina']}
+acatalectic
+{u'Adjective': ['(verse'], u'Noun': ['(prosody']}
+acatalectics
+{u'Noun': ['(prosody']}
+acaudal
+{u'Adjective': ['lacking a tail or taillike appendage']}
+acaudate
+{u'Adjective': ['lacking a tail or taillike appendage']}
+acaulescent
+{u'Adjective': ['(of plants']}
+accede
+{u'Verb': ["yield to another's wish or opinion", 'take on duties or office', 'to agree or express agreement']}
+acceded
+{u'Verb': ["yield to another's wish or opinion", 'take on duties or office', 'to agree or express agreement']}
+accedes
+{u'Verb': ["yield to another's wish or opinion", 'take on duties or office', 'to agree or express agreement']}
+acceding
+{u'Verb': ["yield to another's wish or opinion", 'take on duties or office', 'to agree or express agreement']}
+accelerando
+{u'Adjective': ['(music'], u'Noun': ['a gradually increasing tempo of music'], u'Adverb': ['with increasing speed']}
+accelerandos
+{u'Noun': ['a gradually increasing tempo of music']}
+accelerate
+{u'Verb': ['move faster', 'cause to move faster']}
+accelerated
+{u'Adjective': ['speeded up, as of an academic course'], u'Verb': ['move faster', 'cause to move faster']}
+accelerates
+{u'Verb': ['move faster', 'cause to move faster']}
+accelerating
+{u'Verb': ['move faster', 'cause to move faster']}
+acceleration
+{u'Noun': ['an increase in rate of change', 'the act of accelerating; increasing the speed', '(physics']}
+accelerations
+{u'Noun': ['an increase in rate of change', 'the act of accelerating; increasing the speed', '(physics']}
+accelerative
+{u'Adjective': ['tending to increase velocity']}
+accelerator
+{u'Noun': ['a pedal that controls the throttle valve', 'a valve that regulates the supply of fuel to the engine', '(chemistry', 'a scientific instrument that increases the kinetic energy of charged particles']}
+accelerators
+{u'Noun': ['a pedal that controls the throttle valve', 'a valve that regulates the supply of fuel to the engine', '(chemistry', 'a scientific instrument that increases the kinetic energy of charged particles']}
+acceleratory
+{u'Adjective': ['tending to increase velocity']}
+accelerometer
+{u'Noun': ['an instrument for measuring the acceleration of aircraft or rockets']}
+accelerometers
+{u'Noun': ['an instrument for measuring the acceleration of aircraft or rockets']}
+accent
+{u'Verb': ['to stress, single out as important', 'put stress on; utter with an accent'], u'Noun': ['distinctive manner of oral expression', 'special importance or significance', 'the usage or vocabulary that is characteristic of a specific group of people', 'the relative prominence of a syllable or musical note (especially with regard to stress or pitch', 'a diacritical mark used to indicate stress or placed above a vowel to indicate a special pronunciation']}
+accented
+{u'Adjective': ['(used of syllables', 'bearing a stress or accent'], u'Verb': ['to stress, single out as important', 'put stress on; utter with an accent']}
+accenting
+{u'Verb': ['to stress, single out as important', 'put stress on; utter with an accent'], u'Noun': ['the act of giving special importance or significance to something']}
+accentor
+{u'Noun': ['small sparrow-like songbird of mountainous regions of Eurasia']}
+accentors
+{u'Noun': ['small sparrow-like songbird of mountainous regions of Eurasia']}
+accents
+{u'Verb': ['to stress, single out as important', 'put stress on; utter with an accent'], u'Noun': ['distinctive manner of oral expression', 'special importance or significance', 'the usage or vocabulary that is characteristic of a specific group of people', 'the relative prominence of a syllable or musical note (especially with regard to stress or pitch', 'a diacritical mark used to indicate stress or placed above a vowel to indicate a special pronunciation']}
+accentual
+{u'Adjective': ['of or pertaining to accent or stress', '(of verse']}
+accentuate
+{u'Verb': ['to stress, single out as important', 'put stress on; utter with an accent']}
+accentuated
+{u'Verb': ['to stress, single out as important', 'put stress on; utter with an accent']}
+accentuates
+{u'Verb': ['to stress, single out as important', 'put stress on; utter with an accent']}
+accentuating
+{u'Verb': ['to stress, single out as important', 'put stress on; utter with an accent']}
+accentuation
+{u'Noun': ['the use or application of an accent; the relative prominence of syllables in a phrase or utterance', 'the act of giving special importance or significance to something']}
+accentuations
+{u'Noun': ['the use or application of an accent; the relative prominence of syllables in a phrase or utterance', 'the act of giving special importance or significance to something']}
+accept
+{u'Verb': ['consider or hold as true', 'receive willingly something given or offered', 'give an affirmative reply to; respond favorably to', 'react favorably to; consider right and proper', 'admit into a group or community', "take on as one's own the expenses or debts of another person", 'tolerate or accommodate oneself to', 'be designed to hold or take', 'receive (a report', 'make use of or accept for some purpose', 'be sexually responsive to, used of a female domesticated mammal']}
+acceptabilities
+{u'Noun': ['satisfactoriness by virtue of conforming to approved standards']}
+acceptability
+{u'Noun': ['satisfactoriness by virtue of conforming to approved standards']}
+acceptable
+{u'Adjective': ['worthy of acceptance or satisfactory', 'judged to be in conformity with approved usage', 'meeting requirements', 'adequate for the purpose']}
+acceptableness
+{u'Noun': ['satisfactoriness by virtue of conforming to approved standards']}
+acceptably
+{u'Adverb': ['in an acceptable (but not outstanding']}
+acceptance
+{u'Noun': ['the mental attitude that something is believable and should be accepted as true', 'the act of accepting with approval; favorable reception', 'the state of being acceptable and accepted', '(contract law', 'thereby creating a contract', 'banking: a time draft drawn on and accepted by a bank', 'a disposition to tolerate or accept people or situations', 'the act of taking something that is offered']}
+acceptances
+{u'Noun': ['the mental attitude that something is believable and should be accepted as true', 'the act of accepting with approval; favorable reception', 'the state of being acceptable and accepted', '(contract law', 'thereby creating a contract', 'banking: a time draft drawn on and accepted by a bank', 'a disposition to tolerate or accept people or situations', 'the act of taking something that is offered']}
+acceptant
+{u'Adjective': ['accepting willingly']}
+acceptation
+{u'Noun': ['acceptance as true or valid', 'the accepted meaning of a word', 'the act of accepting with approval; favorable reception']}
+acceptations
+{u'Noun': ['acceptance as true or valid', 'the accepted meaning of a word', 'the act of accepting with approval; favorable reception']}
+accepted
+{u'Adjective': ['generally approved or compelling recognition'], u'Verb': ['consider or hold as true', 'receive willingly something given or offered', 'give an affirmative reply to; respond favorably to', 'react favorably to; consider right and proper', 'admit into a group or community', "take on as one's own the expenses or debts of another person", 'tolerate or accommodate oneself to', 'be designed to hold or take', 'receive (a report', 'make use of or accept for some purpose', 'be sexually responsive to, used of a female domesticated mammal']}
+accepting
+{u'Adjective': ['tolerating without protest'], u'Verb': ['consider or hold as true', 'receive willingly something given or offered', 'give an affirmative reply to; respond favorably to', 'react favorably to; consider right and proper', 'admit into a group or community', "take on as one's own the expenses or debts of another person", 'tolerate or accommodate oneself to', 'be designed to hold or take', 'receive (a report', 'make use of or accept for some purpose', 'be sexually responsive to, used of a female domesticated mammal']}
+acceptive
+{u'Adjective': ['inclined to accept rather than reject', 'accepting willingly']}
+acceptor
+{u'Noun': ['(chemistry', 'the person (or institution']}
+acceptors
+{u'Noun': ['(chemistry', 'the person (or institution']}
+accepts
+{u'Verb': ['consider or hold as true', 'receive willingly something given or offered', 'give an affirmative reply to; respond favorably to', 'react favorably to; consider right and proper', 'admit into a group or community', "take on as one's own the expenses or debts of another person", 'tolerate or accommodate oneself to', 'be designed to hold or take', 'receive (a report', 'make use of or accept for some purpose', 'be sexually responsive to, used of a female domesticated mammal']}
+access
+{u'Verb': ['obtain or retrieve from a storage device; as of information on a computer', 'reach or gain access to'], u'Noun': ['the right to enter', 'the right to obtain or make use of or take advantage of something (as services or membership', 'a way of entering or leaving', 'a code (a series of characters or digits', 'typed or dialed or spoken', 'a telephone line or a computer or a local area network etc.', '(computer science', 'the act of approaching or entering']}
+accessaries
+{u'Noun': ['someone who helps another person commit a crime']}
+accessary
+{u'Adjective': ['aiding and abetting in a crime'], u'Noun': ['someone who helps another person commit a crime']}
+accessed
+{u'Verb': ['obtain or retrieve from a storage device; as of information on a computer', 'reach or gain access to']}
+accesses
+{u'Verb': ['obtain or retrieve from a storage device; as of information on a computer', 'reach or gain access to'], u'Noun': ['the right to enter', 'the right to obtain or make use of or take advantage of something (as services or membership', 'a way of entering or leaving', 'a code (a series of characters or digits', 'typed or dialed or spoken', 'a telephone line or a computer or a local area network etc.', '(computer science', 'the act of approaching or entering']}
+accessibilities
+{u'Noun': ['the quality of being at hand when needed', 'the attribute of being easy to meet or deal with']}
+accessibility
+{u'Noun': ['the quality of being at hand when needed', 'the attribute of being easy to meet or deal with']}
+accessible
+{u'Adjective': ['capable of being reached', 'capable of being read with comprehension', 'easily obtained', 'easy to get along with or talk to; friendly']}
+accessing
+{u'Verb': ['obtain or retrieve from a storage device; as of information on a computer', 'reach or gain access to']}
+accession
+{u'Verb': ['make a record of additions to a collection, such as a library'], u'Noun': ['a process of increasing by addition (as to a collection or group', '(civil law', 'something added to what you already have', 'agreeing with or consenting to (often unwillingly', 'the right to enter', 'the act of attaining or gaining access to a new office or right or position (especially the throne']}
+accessions
+{u'Verb': ['make a record of additions to a collection, such as a library'], u'Noun': ['a process of increasing by addition (as to a collection or group', '(civil law', 'something added to what you already have', 'agreeing with or consenting to (often unwillingly', 'the right to enter', 'the act of attaining or gaining access to a new office or right or position (especially the throne']}
+accessorial
+{u'Adjective': ['nonessential but helpful']}
+accessories
+{u'Noun': ['clothing that is worn or carried, but not part of your main clothing', 'a supplementary component that improves capability', 'someone who helps another person commit a crime']}
+accessory
+{u'Adjective': ['aiding and abetting in a crime', 'furnishing added support'], u'Noun': ['clothing that is worn or carried, but not part of your main clothing', 'a supplementary component that improves capability', 'someone who helps another person commit a crime']}
+acciaccatura
+{u'Noun': ['an embellishing note usually written in smaller size']}
+acciaccaturas
+{u'Noun': ['an embellishing note usually written in smaller size']}
+accidence
+{u'Noun': ['the part of grammar that deals with the inflections of words']}
+accident
+{u'Noun': ['an unfortunate mishap; especially one causing damage or injury', 'anything that happens suddenly or by chance without an apparent cause']}
+accidental
+{u'Adjective': ['happening by chance or unexpectedly or unintentionally', 'not of prime or central importance'], u'Noun': ['a musical notation that makes a note sharp or flat or natural although that is not part of the key signature']}
+accidentally
+{u'Adverb': ['without advance planning', 'of a minor or subordinate nature', 'without intention; in an unintentional manner']}
+accidentals
+{u'Noun': ['a musical notation that makes a note sharp or flat or natural although that is not part of the key signature']}
+accidents
+{u'Noun': ['an unfortunate mishap; especially one causing damage or injury', 'anything that happens suddenly or by chance without an apparent cause']}
+accipiter
+{u'Noun': ['type genus of the family Accipitridae']}
+accipiters
+{u'Noun': ['type genus of the family Accipitridae']}
+accipitrine
+{u'Adjective': ['of or relating to or belonging to the genus Accipiter (or to typical hawks']}
+acclaim
+{u'Verb': ['praise vociferously', "clap one's hands or shout after performances to indicate approval"], u'Noun': ['enthusiastic approval']}
+acclaimed
+{u'Verb': ['praise vociferously', "clap one's hands or shout after performances to indicate approval"]}
+acclaiming
+{u'Verb': ['praise vociferously', "clap one's hands or shout after performances to indicate approval"]}
+acclaims
+{u'Verb': ['praise vociferously', "clap one's hands or shout after performances to indicate approval"], u'Noun': ['enthusiastic approval']}
+acclamation
+{u'Noun': ['enthusiastic approval']}
+acclamations
+{u'Noun': ['enthusiastic approval']}
+acclimate
+{u'Verb': ['get used to a certain climate']}
+acclimated
+{u'Verb': ['get used to a certain climate']}
+acclimates
+{u'Verb': ['get used to a certain climate']}
+acclimating
+{u'Verb': ['get used to a certain climate']}
+acclimation
+{u'Noun': ['adaptation to a new climate (a new temperature or altitude or environment']}
+acclimations
+{u'Noun': ['adaptation to a new climate (a new temperature or altitude or environment']}
+acclimatisation
+{u'Noun': ['adaptation to a new climate (a new temperature or altitude or environment']}
+acclimatisations
+{u'Noun': ['adaptation to a new climate (a new temperature or altitude or environment']}
+acclimatise
+{u'Verb': ['get used to a certain climate']}
+acclimatised
+{u'Verb': ['get used to a certain climate']}
+acclimatises
+{u'Verb': ['get used to a certain climate']}
+acclimatising
+{u'Verb': ['get used to a certain climate']}
+acclimatization
+{u'Noun': ['adaptation to a new climate (a new temperature or altitude or environment']}
+acclimatizations
+{u'Noun': ['adaptation to a new climate (a new temperature or altitude or environment']}
+acclimatize
+{u'Verb': ['get used to a certain climate']}
+acclimatized
+{u'Verb': ['get used to a certain climate']}
+acclimatizes
+{u'Verb': ['get used to a certain climate']}
+acclimatizing
+{u'Verb': ['get used to a certain climate']}
+acclivities
+{u'Noun': ['an upward slope or grade (as in a road']}
+acclivitous
+{u'Adjective': ['sloping upward']}
+acclivity
+{u'Noun': ['an upward slope or grade (as in a road']}
+accolade
+{u'Noun': ['a tangible symbol signifying approval or distinction']}
+accolades
+{u'Noun': ['a tangible symbol signifying approval or distinction']}
+accommodate
+{u'Verb': ['be agreeable or acceptable to', 'make fit for, or change to suit a new purpose', 'provide with something desired or needed', 'have room for; hold without crowding', 'provide housing for', 'provide a service or favor for someone', 'make (one thing', 'another']}
+accommodated
+{u'Verb': ['be agreeable or acceptable to', 'make fit for, or change to suit a new purpose', 'provide with something desired or needed', 'have room for; hold without crowding', 'provide housing for', 'provide a service or favor for someone', 'make (one thing', 'another']}
+accommodates
+{u'Verb': ['be agreeable or acceptable to', 'make fit for, or change to suit a new purpose', 'provide with something desired or needed', 'have room for; hold without crowding', 'provide housing for', 'provide a service or favor for someone', 'make (one thing', 'another']}
+accommodating
+{u'Adjective': ['helpful in bringing about a harmonious adaptation', 'obliging; willing to do favors'], u'Verb': ['be agreeable or acceptable to', 'make fit for, or change to suit a new purpose', 'provide with something desired or needed', 'have room for; hold without crowding', 'provide housing for', 'provide a service or favor for someone', 'make (one thing', 'another']}
+accommodatingly
+{u'Adverb': ['in accommodation']}
+accommodation
+{u'Noun': ['making or becoming suitable; adjusting to circumstances', 'a settlement of differences', 'in the theories of Jean Piaget: the modification of internal representations in order to accommodate a changing knowledge of reality', 'living quarters provided for public convenience', 'the act of providing something (lodging or seat or food', '(physiology']}
+accommodations
+{u'Noun': ['making or becoming suitable; adjusting to circumstances', 'a settlement of differences', 'in the theories of Jean Piaget: the modification of internal representations in order to accommodate a changing knowledge of reality', 'living quarters provided for public convenience', 'the act of providing something (lodging or seat or food', '(physiology']}
+accommodative
+{u'Adjective': ['helpful in bringing about a harmonious adaptation', 'willing to adjust to differences in order to obtain agreement', 'tending to reconcile or accommodate; bringing into harmony']}
+accommodator
+{u'Noun': ['someone who performs a service or does a favor']}
+accommodators
+{u'Noun': ['someone who performs a service or does a favor']}
+accompanied
+{u'Adjective': ['having companions or an escort', 'playing or singing with instrumental or vocal accompaniment'], u'Verb': ['be present or associated with an event or entity', 'go or travel along with', 'perform an accompaniment to', 'be a companion to somebody']}
+accompanies
+{u'Verb': ['be present or associated with an event or entity', 'go or travel along with', 'perform an accompaniment to', 'be a companion to somebody']}
+accompaniment
+{u'Noun': ['an event or situation that happens at the same time as or in connection with another', 'a musical part (vocal or instrumental', 'something added to complete or embellish or make perfect', 'the act of accompanying someone or something in order to protect them']}
+accompaniments
+{u'Noun': ['an event or situation that happens at the same time as or in connection with another', 'a musical part (vocal or instrumental', 'something added to complete or embellish or make perfect', 'the act of accompanying someone or something in order to protect them']}
+accompanist
+{u'Noun': ['a person who provides musical accompaniment (usually on a piano']}
+accompanists
+{u'Noun': ['a person who provides musical accompaniment (usually on a piano']}
+accompany
+{u'Verb': ['be present or associated with an event or entity', 'go or travel along with', 'perform an accompaniment to', 'be a companion to somebody']}
+accompanying
+{u'Adjective': ['occurring with or following as a consequence'], u'Verb': ['be present or associated with an event or entity', 'go or travel along with', 'perform an accompaniment to', 'be a companion to somebody']}
+accompanyist
+{u'Noun': ['a person who provides musical accompaniment (usually on a piano']}
+accompanyists
+{u'Noun': ['a person who provides musical accompaniment (usually on a piano']}
+accomplice
+{u'Noun': ['a person who joins with another in carrying out some plan (especially an unethical or illegal plan']}
+accomplices
+{u'Noun': ['a person who joins with another in carrying out some plan (especially an unethical or illegal plan']}
+accomplish
+{u'Verb': ['put in effect', 'to gain with effort']}
+accomplishable
+{u'Adjective': ['capable of existing or taking place or proving true; possible to do']}
+accomplished
+{u'Adjective': ['highly skilled', 'successfully completed or brought to an end', 'settled securely and unconditionally'], u'Verb': ['put in effect', 'to gain with effort']}
+accomplishes
+{u'Verb': ['put in effect', 'to gain with effort']}
+accomplishing
+{u'Verb': ['put in effect', 'to gain with effort']}
+accomplishment
+{u'Noun': ['the action of accomplishing something', 'an ability that has been acquired by training']}
+accomplishments
+{u'Noun': ['the action of accomplishing something', 'an ability that has been acquired by training']}
+accord
+{u'Verb': ['go together', 'allow to have'], u'Noun': ["harmony of people's opinions or actions or characters", 'concurrence of opinion', 'a written agreement between two states or sovereigns', 'sympathetic compatibility']}
+accordance
+{u'Noun': ['concurrence of opinion', 'the act of granting rights']}
+accordances
+{u'Noun': ['concurrence of opinion', 'the act of granting rights']}
+accordant
+{u'Adjective': ['in keeping']}
+accorded
+{u'Verb': ['go together', 'allow to have']}
+according
+{u'Adjective': ["(followed by `to'", "(followed by `to'"], u'Verb': ['go together', 'allow to have']}
+accordingly
+{u'Adverb': ['(sentence connectors', 'in accordance with']}
+accordion
+{u'Noun': ['a portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player']}
+accordionist
+{u'Noun': ['a musician who plays the accordion']}
+accordionists
+{u'Noun': ['a musician who plays the accordion']}
+accordions
+{u'Noun': ['a portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player']}
+accords
+{u'Verb': ['go together', 'allow to have'], u'Noun': ["harmony of people's opinions or actions or characters", 'concurrence of opinion', 'a written agreement between two states or sovereigns', 'sympathetic compatibility']}
+accost
+{u'Verb': ['speak to someone', 'approach with an offer of sexual favors']}
+accosted
+{u'Verb': ['speak to someone', 'approach with an offer of sexual favors']}
+accosting
+{u'Verb': ['speak to someone', 'approach with an offer of sexual favors']}
+accosts
+{u'Verb': ['speak to someone', 'approach with an offer of sexual favors']}
+accouchement
+{u'Noun': ['the parturition process in human beings; having a baby; the process of giving birth to a child']}
+accouchements
+{u'Noun': ['the parturition process in human beings; having a baby; the process of giving birth to a child']}
+accoucheur
+{u'Noun': ['a physician specializing in obstetrics']}
+accoucheurs
+{u'Noun': ['a physician specializing in obstetrics']}
+accoucheuse
+{u'Noun': ['a woman skilled in aiding the delivery of babies']}
+accoucheuses
+{u'Noun': ['a woman skilled in aiding the delivery of babies']}
+account
+{u'Verb': ['be the sole or primary factor in the existence, acquisition, supply, or disposal of something', 'keep an account of', 'to give an account or representation of in words', 'furnish a justifying analysis or explanation'], u'Noun': ['a record or narrative description of past events', 'a short account of the news', 'a formal contractual relationship established to provide for regular banking or brokerage or business services', 'a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.', 'grounds', 'importance or value', 'a statement of recent transactions and the resulting balance', 'the act of informing by verbal report', 'an itemized statement of money owed for goods shipped or services rendered', 'the quality of taking advantage']}
+accountabilities
+{u'Noun': ['responsibility to someone or for some activity']}
+accountability
+{u'Noun': ['responsibility to someone or for some activity']}
+accountable
+{u'Adjective': ["liable to account for one's actions"]}
+accountancies
+{u'Noun': ['the occupation of maintaining and auditing records and preparing financial reports for a business']}
+accountancy
+{u'Noun': ['the occupation of maintaining and auditing records and preparing financial reports for a business']}
+accountant
+{u'Noun': ['someone who maintains and audits business accounts']}
+accountants
+{u'Noun': ['someone who maintains and audits business accounts']}
+accountantship
+{u'Noun': ['the position of accountant']}
+accounted
+{u'Verb': ['be the sole or primary factor in the existence, acquisition, supply, or disposal of something', 'keep an account of', 'to give an account or representation of in words', 'furnish a justifying analysis or explanation']}
+accounting
+{u'Verb': ['be the sole or primary factor in the existence, acquisition, supply, or disposal of something', 'keep an account of', 'to give an account or representation of in words', 'furnish a justifying analysis or explanation'], u'Noun': ['a convincing explanation that reveals basic causes', 'a system that provides quantitative information about finances', 'the occupation of maintaining and auditing records and preparing financial reports for a business', "a bookkeeper's chronological list of related debits and credits of a business; forms part of a ledger of accounts", 'a statement of recent transactions and the resulting balance']}
+accountings
+{u'Noun': ['a convincing explanation that reveals basic causes', 'a system that provides quantitative information about finances', 'the occupation of maintaining and auditing records and preparing financial reports for a business', "a bookkeeper's chronological list of related debits and credits of a business; forms part of a ledger of accounts", 'a statement of recent transactions and the resulting balance']}
+accounts
+{u'Verb': ['be the sole or primary factor in the existence, acquisition, supply, or disposal of something', 'keep an account of', 'to give an account or representation of in words', 'furnish a justifying analysis or explanation'], u'Noun': ['a record or narrative description of past events', 'a short account of the news', 'a formal contractual relationship established to provide for regular banking or brokerage or business services', 'a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.', 'grounds', 'importance or value', 'a statement of recent transactions and the resulting balance', 'the act of informing by verbal report', 'an itemized statement of money owed for goods shipped or services rendered', 'the quality of taking advantage']}
+accouter
+{u'Verb': ['provide with military equipment']}
+accoutered
+{u'Adjective': ['provided with necessary articles of equipment for a specialized purpose (especially military'], u'Verb': ['provide with military equipment']}
+accoutering
+{u'Verb': ['provide with military equipment']}
+accouterment
+{u'Noun': ['clothing that is worn or carried, but not part of your main clothing']}
+accouterments
+{u'Noun': ['clothing that is worn or carried, but not part of your main clothing']}
+accouters
+{u'Verb': ['provide with military equipment']}
+accoutre
+{u'Verb': ['provide with military equipment']}
+accoutred
+{u'Adjective': ['provided with necessary articles of equipment for a specialized purpose (especially military'], u'Verb': ['provide with military equipment']}
+accoutrement
+{u'Noun': ['clothing that is worn or carried, but not part of your main clothing']}
+accoutrements
+{u'Noun': ['clothing that is worn or carried, but not part of your main clothing']}
+accoutres
+{u'Verb': ['provide with military equipment']}
+accoutring
+{u'Verb': ['provide with military equipment']}
+accra
+{u'Noun': ['the capital and largest city of Ghana with a deep-water port']}
+accredit
+{u'Verb': ['grant credentials to', 'provide or send (envoys or embassadors', 'ascribe an achievement to']}
+accreditation
+{u'Noun': ['the act of granting credit or recognition (especially with respect to educational institution that maintains suitable standards']}
+accreditations
+{u'Noun': ['the act of granting credit or recognition (especially with respect to educational institution that maintains suitable standards']}
+accredited
+{u'Adjective': ['given official approval to act'], u'Verb': ['grant credentials to', 'provide or send (envoys or embassadors', 'ascribe an achievement to']}
+accrediting
+{u'Verb': ['grant credentials to', 'provide or send (envoys or embassadors', 'ascribe an achievement to']}
+accredits
+{u'Verb': ['grant credentials to', 'provide or send (envoys or embassadors', 'ascribe an achievement to']}
+accrete
+{u'Verb': ['grow together (of plants and organs', 'grow or become attached by accretion']}
+accreted
+{u'Verb': ['grow together (of plants and organs', 'grow or become attached by accretion']}
+accretes
+{u'Verb': ['grow together (of plants and organs', 'grow or become attached by accretion']}
+accreting
+{u'Verb': ['grow together (of plants and organs', 'grow or become attached by accretion']}
+accretion
+{u'Noun': ['an increase by natural growth or addition', 'something contributing to growth or increase', '(astronomy', '(biology', '(geology', 'as when a co-beneficiary dies or fails to meet some condition or rejects the inheritance']}
+accretions
+{u'Noun': ['an increase by natural growth or addition', 'something contributing to growth or increase', '(astronomy', '(biology', '(geology', 'as when a co-beneficiary dies or fails to meet some condition or rejects the inheritance']}
+accretive
+{u'Adjective': ['growing by accretion']}
+accrual
+{u'Noun': ['the act of accumulating']}
+accruals
+{u'Noun': ['the act of accumulating']}
+accrue
+{u'Verb': ['grow by addition', 'come into the possession of']}
+accrued
+{u'Adjective': ['periodically accumulated over time'], u'Verb': ['grow by addition', 'come into the possession of']}
+accrues
+{u'Verb': ['grow by addition', 'come into the possession of']}
+accruing
+{u'Verb': ['grow by addition', 'come into the possession of']}
+acculturate
+{u'Verb': ['assimilate culturally']}
+acculturated
+{u'Verb': ['assimilate culturally']}
+acculturates
+{u'Verb': ['assimilate culturally']}
+acculturating
+{u'Verb': ['assimilate culturally']}
+acculturation
+{u'Noun': ['the adoption of the behavior patterns of the surrounding culture', 'all the knowledge and values shared by a society', 'the process of assimilating new ideas into an existing cognitive structure']}
+accumbent
+{u'Adjective': ['lying down; in a position of comfort or rest']}
+accumulate
+{u'Verb': ['get or gather together', 'collect or gather']}
+accumulated
+{u'Adjective': ['periodically accumulated over time'], u'Verb': ['get or gather together', 'collect or gather']}
+accumulates
+{u'Verb': ['get or gather together', 'collect or gather']}
+accumulating
+{u'Verb': ['get or gather together', 'collect or gather']}
+accumulation
+{u'Noun': ['an increase by natural growth or addition', 'several things grouped together or considered as a whole', 'the act of accumulating', '(finance']}
+accumulations
+{u'Noun': ['an increase by natural growth or addition', 'several things grouped together or considered as a whole', 'the act of accumulating', '(finance']}
+accumulative
+{u'Adjective': ['increasing by successive addition', 'marked by acquiring or amassing']}
+accumulator
+{u'Noun': ['a person who is employed to collect payments (as for rent or taxes', 'a voltaic battery that stores electric charge', '(computer science']}
+accumulators
+{u'Noun': ['a person who is employed to collect payments (as for rent or taxes', 'a voltaic battery that stores electric charge', '(computer science']}
+accuracies
+{u'Noun': ['the quality of being near to the true value', '(mathematics']}
+accuracy
+{u'Noun': ['the quality of being near to the true value', '(mathematics']}
+accurate
+{u'Adjective': ['conforming exactly or almost exactly to fact or to a standard or performing with total accuracy', '(of ideas, images, representations, expressions']}
+accurately
+{u'Adverb': ['with few mistakes', 'strictly correctly']}
+accurse
+{u'Verb': ['curse or declare to be evil or anathema or threaten with divine punishment']}
+accursed
+{u'Adjective': ['under a curse'], u'Verb': ['curse or declare to be evil or anathema or threaten with divine punishment']}
+accurses
+{u'Verb': ['curse or declare to be evil or anathema or threaten with divine punishment']}
+accursing
+{u'Verb': ['curse or declare to be evil or anathema or threaten with divine punishment']}
+accurst
+{u'Adjective': ['under a curse']}
+accusal
+{u'Noun': ['a formal charge of wrongdoing brought against a person; the act of imputing blame or guilt']}
+accusals
+{u'Noun': ['a formal charge of wrongdoing brought against a person; the act of imputing blame or guilt']}
+accusation
+{u'Noun': ['a formal charge of wrongdoing brought against a person; the act of imputing blame or guilt', 'an assertion that someone is guilty of a fault or offence']}
+accusations
+{u'Noun': ['a formal charge of wrongdoing brought against a person; the act of imputing blame or guilt', 'an assertion that someone is guilty of a fault or offence']}
+accusative
+{u'Adjective': ['containing or expressing accusation', 'serving as or indicating the object of a verb or of certain prepositions and used for certain other purposes'], u'Noun': ['the case of nouns serving as the direct object of a verb']}
+accusatives
+{u'Noun': ['the case of nouns serving as the direct object of a verb']}
+accusatorial
+{u'Adjective': ['specifically indicating a form of prosecution in which one is publicly accused of and tried for a crime and in which the judge is not also the prosecutor']}
+accusatory
+{u'Adjective': ['containing or expressing accusation']}
+accuse
+{u'Verb': ['bring an accusation against; level a charge against', 'blame for, make a claim of wrongdoing or misbehavior against']}
+accused
+{u'Verb': ['bring an accusation against; level a charge against', 'blame for, make a claim of wrongdoing or misbehavior against'], u'Noun': ['a defendant in a criminal proceeding']}
+accuser
+{u'Noun': ['someone who imputes guilt or blame']}
+accusers
+{u'Noun': ['someone who imputes guilt or blame']}
+accuses
+{u'Verb': ['bring an accusation against; level a charge against', 'blame for, make a claim of wrongdoing or misbehavior against']}
+accusing
+{u'Adjective': ['containing or expressing accusation'], u'Verb': ['bring an accusation against; level a charge against', 'blame for, make a claim of wrongdoing or misbehavior against']}
+accusingly
+{u'Adverb': ['in an accusing manner']}
+accustom
+{u'Verb': ['make psychologically or physically used (to something']}
+accustomed
+{u'Adjective': ['commonly used or practiced; usual'], u'Verb': ['make psychologically or physically used (to something']}
+accustoming
+{u'Verb': ['make psychologically or physically used (to something']}
+accustoms
+{u'Verb': ['make psychologically or physically used (to something']}
+ace
+{u'Adjective': ['of the highest quality'], u'Verb': ['succeed at easily', 'score an ace against', 'play (a hole', 'serve an ace against (someone'], u'Noun': ['the smallest whole number or a numeral representing this number', 'one of four playing cards in a deck having a single pip on its face', 'someone who is dazzlingly skilled in any field', 'proteolytic enzyme that converts angiotensin I into angiotensin II', 'a major strategic headquarters of NATO; safeguards an area extending from Norway to Turkey', 'a serve that the receiver is unable to reach']}
+aced
+{u'Verb': ['succeed at easily', 'score an ace against', 'play (a hole', 'serve an ace against (someone']}
+acedia
+{u'Noun': ['apathy and inactivity in the practice of virtue (personified as one of the deadly sins']}
+acellular
+{u'Adjective': ['not made up of or divided into cells']}
+acephalous
+{u'Adjective': ['lacking a head or a clearly defined head']}
+acer
+{u'Noun': ['type genus of the Aceraceae; trees or shrubs having winged fruit']}
+aceraceae
+{u'Noun': ['a family of trees and shrubs of order Sapindales including the maples']}
+acerate
+{u'Adjective': ['narrow and long and pointed; as pine leaves']}
+acerb
+{u'Adjective': ['sour or bitter in taste', 'harsh or corrosive in tone']}
+acerbate
+{u'Verb': ['cause to be bitter or resentful', 'make sour or bitter']}
+acerbated
+{u'Verb': ['cause to be bitter or resentful', 'make sour or bitter']}
+acerbates
+{u'Verb': ['cause to be bitter or resentful', 'make sour or bitter']}
+acerbating
+{u'Verb': ['cause to be bitter or resentful', 'make sour or bitter']}
+acerbic
+{u'Adjective': ['sour or bitter in taste', 'harsh or corrosive in tone']}
+acerbities
+{u'Noun': ['a sharp bitterness', 'a sharp sour taste', 'a rough and bitter manner']}
+acerbity
+{u'Noun': ['a sharp bitterness', 'a sharp sour taste', 'a rough and bitter manner']}
+acerose
+{u'Adjective': ['narrow and long and pointed; as pine leaves']}
+acers
+{u'Noun': ['type genus of the Aceraceae; trees or shrubs having winged fruit']}
+acervate
+{u'Adjective': ['pertaining to a growth of fungi that forms a heaped-up mass']}
+aces
+{u'Verb': ['succeed at easily', 'score an ace against', 'play (a hole', 'serve an ace against (someone'], u'Noun': ['the smallest whole number or a numeral representing this number', 'one of four playing cards in a deck having a single pip on its face', 'someone who is dazzlingly skilled in any field', 'proteolytic enzyme that converts angiotensin I into angiotensin II', 'a major strategic headquarters of NATO; safeguards an area extending from Norway to Turkey', 'a serve that the receiver is unable to reach']}
+acetabula
+{u'Noun': ['the cup-shaped hollow in the hipbone into which the head of the femur fits to form a ball-and-socket joint']}
+acetabular
+{u'Adjective': ['of the cup-shaped socket that receives the head of the thigh bone']}
+acetabulum
+{u'Noun': ['the cup-shaped hollow in the hipbone into which the head of the femur fits to form a ball-and-socket joint']}
+acetal
+{u'Noun': ['any organic compound formed by adding alcohol molecules to aldehyde molecules']}
+acetaldehyde
+{u'Noun': ['a colorless volatile water-soluble liquid aldehyde used chiefly in the manufacture of acetic acid and perfumes and drugs']}
+acetals
+{u'Noun': ['any organic compound formed by adding alcohol molecules to aldehyde molecules']}
+acetamide
+{u'Noun': ['a colorless solid amide of acetic acid used as a solvent and in the synthesis of organic compounds']}
+acetate
+{u'Noun': ['a salt or ester of acetic acid', 'a fabric made from fibers of cellulose acetate']}
+acetates
+{u'Noun': ['a salt or ester of acetic acid', 'a fabric made from fibers of cellulose acetate']}
+acetic
+{u'Adjective': ['relating to or containing acetic acid']}
+acetified
+{u'Verb': ['make sour or more sour', 'turn acidic']}
+acetifies
+{u'Verb': ['make sour or more sour', 'turn acidic']}
+acetify
+{u'Verb': ['make sour or more sour', 'turn acidic']}
+acetifying
+{u'Verb': ['make sour or more sour', 'turn acidic']}
+acetone
+{u'Noun': ['the simplest ketone; a highly flammable liquid widely used as an organic solvent and as material for making plastics']}
+acetones
+{u'Noun': ['the simplest ketone; a highly flammable liquid widely used as an organic solvent and as material for making plastics']}
+acetose
+{u'Adjective': ['tasting or smelling like vinegar']}
+acetous
+{u'Adjective': ['tasting or smelling like vinegar']}
+acetyl
+{u'Noun': ['the organic group of acetic acid (CH3CO-']}
+acetylcholine
+{u'Noun': ['a neurotransmitter that is a derivative of choline; released at the ends of nerve fibers in the somatic and parasympathetic nervous systems']}
+acetylene
+{u'Noun': ['a colorless flammable gas used chiefly in welding and in organic synthesis']}
+achaea
+{u'Noun': ['a region of ancient Greece on the north coast of the Peloponnese']}
+achaean
+{u'Adjective': ['of or relating to Achaea or its ancient Greek people'], u'Noun': ['a member of one of four linguistic divisions of the prehistoric Greeks', 'the ancient Greek inhabitants of Achaea']}
+achaeans
+{u'Noun': ['a member of one of four linguistic divisions of the prehistoric Greeks', 'the ancient Greek inhabitants of Achaea']}
+achaian
+{u'Noun': ['a member of one of four linguistic divisions of the prehistoric Greeks']}
+achaians
+{u'Noun': ['a member of one of four linguistic divisions of the prehistoric Greeks']}
+ache
+{u'Verb': ['feel physical pain', 'have a desire for something or someone who is not present', 'be the source of pain'], u'Noun': ['a dull persistent (usually moderately intense']}
+ached
+{u'Verb': ['feel physical pain', 'have a desire for something or someone who is not present', 'be the source of pain']}
+achene
+{u'Noun': ['small dry indehiscent fruit with the seed distinct from the fruit wall']}
+achenes
+{u'Noun': ['small dry indehiscent fruit with the seed distinct from the fruit wall']}
+achenial
+{u'Adjective': ['pertaining to dry one-seeded indehiscent fruit']}
+acheron
+{u'Noun': ['(Greek mythology']}
+acherontic
+{u'Adjective': ['dark and dismal as of the rivers Acheron and Styx in Hades']}
+aches
+{u'Verb': ['feel physical pain', 'have a desire for something or someone who is not present', 'be the source of pain'], u'Noun': ['a dull persistent (usually moderately intense']}
+acheson
+{u'Noun': ['United States statesman who promoted the Marshall Plan and helped establish NATO (1893-1971']}
+achier
+{u'Adjective': ['causing a dull and steady pain']}
+achiest
+{u'Adjective': ['causing a dull and steady pain']}
+achievable
+{u'Adjective': ['capable of existing or taking place or proving true; possible to do']}
+achieve
+{u'Verb': ['to gain with effort']}
+achieved
+{u'Verb': ['to gain with effort']}
+achievement
+{u'Noun': ['the action of accomplishing something']}
+achievements
+{u'Noun': ['the action of accomplishing something']}
+achiever
+{u'Noun': ['a person with a record of successes']}
+achievers
+{u'Noun': ['a person with a record of successes']}
+achieves
+{u'Verb': ['to gain with effort']}
+achieving
+{u'Verb': ['to gain with effort']}
+achillea
+{u'Noun': ['any of several plants of the genus Achillea native to Europe and having small white flowers in flat-topped flower heads']}
+achilleas
+{u'Noun': ['any of several plants of the genus Achillea native to Europe and having small white flowers in flat-topped flower heads']}
+achilles
+{u'Noun': ["a mythical Greek hero of the Iliad; a foremost Greek warrior at the siege of Troy; when he was a baby his mother tried to make him immortal by bathing him in a magical river but the heel by which she held him remained vulnerable--his `Achilles' heel'"]}
+achimenes
+{u'Noun': ['any plant of the genus Achimenes having showy bell-shaped flowers that resemble gloxinias']}
+aching
+{u'Adjective': ['causing a dull and steady pain'], u'Verb': ['feel physical pain', 'have a desire for something or someone who is not present', 'be the source of pain'], u'Noun': ['a dull persistent (usually moderately intense']}
+achings
+{u'Noun': ['a dull persistent (usually moderately intense']}
+achlamydeous
+{u'Adjective': ['not having a floral envelope or perianth']}
+achondroplasia
+{u'Noun': ['an inherited skeletal disorder beginning before birth; cartilage is converted to bone resulting in dwarfism']}
+achondroplastic
+{u'Adjective': ['of or relating to achondroplasia']}
+achromatic
+{u'Adjective': ['having no hue']}
+achromaticity
+{u'Noun': ['the visual property of being without chromatic color']}
+achromatin
+{u'Noun': ['the part of a cell nucleus that is relatively uncolored by stains or dyes']}
+achromatins
+{u'Noun': ['the part of a cell nucleus that is relatively uncolored by stains or dyes']}
+achromatise
+{u'Verb': ['remove color from']}
+achromatised
+{u'Verb': ['remove color from']}
+achromatises
+{u'Verb': ['remove color from']}
+achromatising
+{u'Verb': ['remove color from']}
+achromatism
+{u'Noun': ['the visual property of being without chromatic color']}
+achromatize
+{u'Verb': ['remove color from']}
+achromatized
+{u'Verb': ['remove color from']}
+achromatizes
+{u'Verb': ['remove color from']}
+achromatizing
+{u'Verb': ['remove color from']}
+achromatous
+{u'Adjective': ['having little or inadequate color']}
+achy
+{u'Adjective': ['causing a dull and steady pain']}
+acicular
+{u'Adjective': ['narrow and long and pointed; as pine leaves']}
+aciculate
+{u'Adjective': ['related to plants or animals or crystals having aciculae or needlelike parts']}
+acid
+{u'Adjective': ['harsh or corrosive in tone', 'being sour to the taste', 'having the characteristics of an acid'], u'Noun': ['any of various water-soluble compounds having a sour taste and capable of turning litmus red and reacting with a base to form a salt', 'street name for lysergic acid diethylamide']}
+acidic
+{u'Adjective': ['being or containing an acid; of a solution having an excess of hydrogen atoms (having a pH of less than 7', 'being sour to the taste']}
+acidification
+{u'Noun': ['the process of becoming acid or being converted into an acid']}
+acidified
+{u'Verb': ['make sour or more sour', 'turn acidic']}
+acidifies
+{u'Verb': ['make sour or more sour', 'turn acidic']}
+acidify
+{u'Verb': ['make sour or more sour', 'turn acidic']}
+acidifying
+{u'Verb': ['make sour or more sour', 'turn acidic']}
+acidimetry
+{u'Noun': ['volumetric analysis using standard solutions of acids to measure the amount of a base present']}
+acidity
+{u'Noun': ['the property of being acidic', 'the taste experience when something acidic is taken into the mouth', 'pH values below 7']}
+acidosis
+{u'Noun': ['abnormally high acidity (excess hydrogen-ion concentration']}
+acids
+{u'Noun': ['any of various water-soluble compounds having a sour taste and capable of turning litmus red and reacting with a base to form a salt', 'street name for lysergic acid diethylamide']}
+acidulate
+{u'Verb': ['make sour or more sour']}
+acidulated
+{u'Verb': ['make sour or more sour']}
+acidulates
+{u'Verb': ['make sour or more sour']}
+acidulating
+{u'Verb': ['make sour or more sour']}
+acidulent
+{u'Adjective': ['being sour to the taste']}
+acidulous
+{u'Adjective': ['being sour to the taste']}
+acing
+{u'Verb': ['succeed at easily', 'score an ace against', 'play (a hole', 'serve an ace against (someone']}
+acini
+{u'Noun': ['one of the small drupes making up an aggregate or multiple fruit like a blackberry', 'one of the small sacs or saclike dilations in a compound gland']}
+acinose
+{u'Adjective': ['pertaining to one of the small sacs (as in a compound gland']}
+acinous
+{u'Adjective': ['pertaining to one of the small sacs (as in a compound gland']}
+acinus
+{u'Noun': ['one of the small drupes making up an aggregate or multiple fruit like a blackberry', 'one of the small sacs or saclike dilations in a compound gland']}
+ackee
+{u'Noun': ['red pear-shaped tropical fruit with poisonous seeds; flesh is poisonous when unripe or overripe']}
+ackees
+{u'Noun': ['red pear-shaped tropical fruit with poisonous seeds; flesh is poisonous when unripe or overripe']}
+acknowledge
+{u'Verb': ['declare to be true or admit the existence or reality or truth of', 'report the receipt of', 'express recognition of the presence or existence of, or acquaintance with', 'express obligation, thanks, or gratitude for', 'accept as legally binding and valid', 'accept (someone']}
+acknowledgeable
+{u'Adjective': ['capable of being acknowledged']}
+acknowledged
+{u'Adjective': ['recognized or made known or admitted', 'generally accepted'], u'Verb': ['declare to be true or admit the existence or reality or truth of', 'report the receipt of', 'express recognition of the presence or existence of, or acquaintance with', 'express obligation, thanks, or gratitude for', 'accept as legally binding and valid', 'accept (someone']}
+acknowledgement
+{u'Noun': ['the state or quality of being recognized or acknowledged', 'a statement acknowledging something or someone']}
+acknowledgements
+{u'Noun': ['the state or quality of being recognized or acknowledged', 'a statement acknowledging something or someone']}
+acknowledges
+{u'Verb': ['declare to be true or admit the existence or reality or truth of', 'report the receipt of', 'express recognition of the presence or existence of, or acquaintance with', 'express obligation, thanks, or gratitude for', 'accept as legally binding and valid', 'accept (someone']}
+acknowledging
+{u'Verb': ['declare to be true or admit the existence or reality or truth of', 'report the receipt of', 'express recognition of the presence or existence of, or acquaintance with', 'express obligation, thanks, or gratitude for', 'accept as legally binding and valid', 'accept (someone']}
+acknowledgment
+{u'Noun': ['the state or quality of being recognized or acknowledged', 'a short note recognizing a source of information or of a quoted passage', 'a statement acknowledging something or someone']}
+acknowledgments
+{u'Noun': ['the state or quality of being recognized or acknowledged', 'a short note recognizing a source of information or of a quoted passage', 'a statement acknowledging something or someone']}
+acme
+{u'Noun': ['the highest level or degree attainable; the highest stage of development', 'the highest point (of something']}
+acmes
+{u'Noun': ['the highest level or degree attainable; the highest stage of development', 'the highest point (of something']}
+acne
+{u'Noun': ['an inflammatory disease involving the sebaceous glands of the skin; characterized by papules or pustules or comedones']}
+acold
+{u'Adjective': ['of persons; feeling cold']}
+acolyte
+{u'Noun': ['someone who assists a priest or minister in a liturgical service; a cleric ordained in the highest of the minor orders in the Roman Catholic Church but not in the Anglican Church or the Eastern Orthodox Churches']}
+acolytes
+{u'Noun': ['someone who assists a priest or minister in a liturgical service; a cleric ordained in the highest of the minor orders in the Roman Catholic Church but not in the Anglican Church or the Eastern Orthodox Churches']}
+aconite
+{u'Noun': ['any of various usually poisonous plants of the genus Aconitum having tuberous roots and palmately lobed leaves and blue or white flowers']}
+aconites
+{u'Noun': ['any of various usually poisonous plants of the genus Aconitum having tuberous roots and palmately lobed leaves and blue or white flowers']}
+aconitum
+{u'Noun': ['genus of poisonous plants of temperate regions of northern hemisphere with a vaulted and enlarged petal']}
+aconitums
+{u'Noun': ['genus of poisonous plants of temperate regions of northern hemisphere with a vaulted and enlarged petal']}
+acorn
+{u'Noun': ['fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base']}
+acorns
+{u'Noun': ['fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base']}
+acorus
+{u'Noun': ['sweet flags; sometimes placed in subfamily Acoraceae']}
+acoustic
+{u'Adjective': ['of or relating to the science of acoustics'], u'Noun': ['a remedy for hearing loss or deafness']}
+acoustical
+{u'Adjective': ['of or relating to the science of acoustics']}
+acoustically
+{u'Adverb': ['with respect to acoustics']}
+acoustician
+{u'Noun': ['a physicist who specializes in acoustics']}
+acousticians
+{u'Noun': ['a physicist who specializes in acoustics']}
+acoustics
+{u'Noun': ['a remedy for hearing loss or deafness', 'the study of the physical properties of sound']}
+acquaint
+{u'Verb': ['cause to come to know personally', 'make familiar or conversant with', 'inform']}
+acquaintance
+{u'Noun': ['personal knowledge or information about someone or something', 'a relationship less intimate than friendship', 'a person with whom you are acquainted']}
+acquaintances
+{u'Noun': ['personal knowledge or information about someone or something', 'a relationship less intimate than friendship', 'a person with whom you are acquainted']}
+acquaintanceship
+{u'Noun': ['a relationship less intimate than friendship']}
+acquaintanceships
+{u'Noun': ['a relationship less intimate than friendship']}
+acquainted
+{u'Adjective': ['having fair knowledge of'], u'Verb': ['cause to come to know personally', 'make familiar or conversant with', 'inform']}
+acquainting
+{u'Verb': ['cause to come to know personally', 'make familiar or conversant with', 'inform']}
+acquaints
+{u'Verb': ['cause to come to know personally', 'make familiar or conversant with', 'inform']}
+acquiesce
+{u'Verb': ['to agree or express agreement']}
+acquiesced
+{u'Verb': ['to agree or express agreement']}
+acquiescence
+{u'Noun': ['acceptance without protest', 'agreement with a statement or proposal to do something']}
+acquiescences
+{u'Noun': ['acceptance without protest', 'agreement with a statement or proposal to do something']}
+acquiescent
+{u'Adjective': ['willing to carry out the orders or wishes of another without protest']}
+acquiesces
+{u'Verb': ['to agree or express agreement']}
+acquiescing
+{u'Verb': ['to agree or express agreement']}
+acquirable
+{u'Adjective': ['capable of being acquired']}
+acquire
+{u'Verb': ['come into the possession of something concrete or abstract', 'take on a certain form, attribute, or aspect', 'come to have or undergo a change of (physical features and attributes', 'locate (a moving entity', "win something through one's efforts", 'gain knowledge or skills', 'gain through experience']}
+acquired
+{u'Adjective': ['gotten through environmental forces', 'such as a suntan or a broken nose'], u'Verb': ['come into the possession of something concrete or abstract', 'take on a certain form, attribute, or aspect', 'come to have or undergo a change of (physical features and attributes', 'locate (a moving entity', "win something through one's efforts", 'gain knowledge or skills', 'gain through experience']}
+acquirement
+{u'Noun': ['an ability that has been acquired by training']}
+acquirements
+{u'Noun': ['an ability that has been acquired by training']}
+acquires
+{u'Verb': ['come into the possession of something concrete or abstract', 'take on a certain form, attribute, or aspect', 'come to have or undergo a change of (physical features and attributes', 'locate (a moving entity', "win something through one's efforts", 'gain knowledge or skills', 'gain through experience']}
+acquiring
+{u'Verb': ['come into the possession of something concrete or abstract', 'take on a certain form, attribute, or aspect', 'come to have or undergo a change of (physical features and attributes', 'locate (a moving entity', "win something through one's efforts", 'gain knowledge or skills', 'gain through experience'], u'Noun': ['the act of acquiring something']}
+acquisition
+{u'Noun': ['the act of contracting or assuming or acquiring possession of something', 'something acquired', 'the cognitive process of acquiring skill or knowledge', 'an ability that has been acquired by training']}
+acquisitions
+{u'Noun': ['the act of contracting or assuming or acquiring possession of something', 'something acquired', 'the cognitive process of acquiring skill or knowledge', 'an ability that has been acquired by training']}
+acquisitive
+{u'Adjective': ['eager to acquire and possess things especially material possessions or ideas']}
+acquisitiveness
+{u'Noun': ['strong desire to acquire and possess']}
+acquit
+{u'Verb': ['pronounce not guilty of criminal charges', 'behave in a certain manner']}
+acquited
+{u'Verb': ['pronounce not guilty of criminal charges', 'behave in a certain manner']}
+acquiting
+{u'Verb': ['pronounce not guilty of criminal charges', 'behave in a certain manner']}
+acquits
+{u'Verb': ['pronounce not guilty of criminal charges', 'behave in a certain manner']}
+acquittal
+{u'Noun': ['a judgment of not guilty']}
+acquittals
+{u'Noun': ['a judgment of not guilty']}
+acquittance
+{u'Noun': ['a legal document evidencing the discharge of a debt or obligation']}
+acquittances
+{u'Noun': ['a legal document evidencing the discharge of a debt or obligation']}
+acquitted
+{u'Adjective': ['declared not guilty of a specific offense or crime; legally blameless'], u'Verb': ['pronounce not guilty of criminal charges', 'behave in a certain manner']}
+acquitting
+{u'Verb': ['pronounce not guilty of criminal charges', 'behave in a certain manner']}
+acre
+{u'Noun': ['a unit of area (4840 square yards', 'a territory of western Brazil bordering on Bolivia and Peru', 'a town and port in northwestern Israel in the eastern Mediterranean']}
+acreage
+{u'Noun': ['an area of ground used for some particular purpose (such as building or farming']}
+acreages
+{u'Noun': ['an area of ground used for some particular purpose (such as building or farming']}
+acres
+{u'Noun': ['a unit of area (4840 square yards', 'a territory of western Brazil bordering on Bolivia and Peru', 'a town and port in northwestern Israel in the eastern Mediterranean', 'extensive landed property (especially in the country']}
+acrid
+{u'Adjective': ['strong and sharp', 'harsh or corrosive in tone']}
+acridity
+{u'Noun': ['having an acrid smell', 'extreme bitterness', 'the quality of being sharply disagreeable in language or tone']}
+acrilan
+{u'Noun': ['acrylic resin used to make a strong soft crease-resistant fabric (trade name Acrilan']}
+acrimonies
+{u'Noun': ['a rough and bitter manner']}
+acrimonious
+{u'Adjective': ['marked by strong resentment or cynicism']}
+acrimony
+{u'Noun': ['a rough and bitter manner']}
+acrobat
+{u'Noun': ['an athlete who performs acts requiring skill and agility and coordination']}
+acrobatic
+{u'Adjective': ['vigorously active']}
+acrobatics
+{u'Noun': ['the gymnastic moves of an acrobat', 'the performance of stunts while in flight in an aircraft']}
+acrobats
+{u'Noun': ['an athlete who performs acts requiring skill and agility and coordination']}
+acrocentric
+{u'Adjective': ['having a subterminal centromere']}
+acrogen
+{u'Noun': ['any flowerless plant such as a fern (pteridophyte', 'bryophyte']}
+acrogenic
+{u'Adjective': ['pertaining to flowerless plants (ferns or mosses']}
+acrogenous
+{u'Adjective': ['pertaining to flowerless plants (ferns or mosses']}
+acrogens
+{u'Noun': ['any flowerless plant such as a fern (pteridophyte', 'bryophyte']}
+acrolein
+{u'Noun': ['a pungent colorless unsaturated liquid aldehyde made from propene']}
+acromegalic
+{u'Adjective': ['marked or affected by enlargement or hypertrophy of the extremities or the face']}
+acromegaly
+{u'Noun': ['enlargement of bones of hands and feet and face; often accompanied by headache and muscle pain and emotional disturbances; caused by overproduction of growth hormone by the anterior pituitary gland (due to a tumor']}
+acromia
+{u'Noun': ['the outermost point of the spine of the shoulder blade']}
+acromion
+{u'Noun': ['the outermost point of the spine of the shoulder blade']}
+acronym
+{u'Noun': ['a word formed from the initial letters of the several words in the name and pronounced as one word', 'ontained', 'nderwater', 'reathing', 'pparatus']}
+acronymic
+{u'Adjective': ['characterized by the use of acronyms']}
+acronymous
+{u'Adjective': ['characterized by the use of acronyms']}
+acronyms
+{u'Noun': ['a word formed from the initial letters of the several words in the name and pronounced as one word', 'ontained', 'nderwater', 'reathing', 'pparatus']}
+acropetal
+{u'Adjective': ['of leaves or flowers; developing or opening in succession from base to apex']}
+acrophobia
+{u'Noun': ['a morbid fear of great heights']}
+acrophony
+{u'Noun': ['naming a letter of the alphabet by using a word whose initial sound is the sound represented by that letter']}
+acropolis
+{u'Noun': ['the citadel in ancient Greek towns']}
+acropolises
+{u'Noun': ['the citadel in ancient Greek towns']}
+acrosome
+{u'Noun': ['a process at the anterior end of a sperm cell that produces enzymes to facilitate penetration of the egg']}
+acrosomes
+{u'Noun': ['a process at the anterior end of a sperm cell that produces enzymes to facilitate penetration of the egg']}
+across
+{u'Adverb': ['to the opposite side', 'transversely']}
+acrostic
+{u'Noun': ['a puzzle where you fill a square grid with words reading the same down as across', 'verse in which certain letters such as the first in each line form a word or message']}
+acrostics
+{u'Noun': ['a puzzle where you fill a square grid with words reading the same down as across', 'verse in which certain letters such as the first in each line form a word or message']}
+acrylate
+{u'Noun': ['a salt or ester of propenoic acid']}
+acrylic
+{u'Noun': ['polymerized from acrylonitrile', 'a glassy thermoplastic; can be cast and molded or used in coatings and adhesives', 'used especially by artists', 'a synthetic fabric']}
+acrylics
+{u'Noun': ['polymerized from acrylonitrile', 'a glassy thermoplastic; can be cast and molded or used in coatings and adhesives', 'used especially by artists', 'a synthetic fabric']}
+acrylonitrile
+{u'Noun': ['a colorless liquid unsaturated nitrile made from propene']}

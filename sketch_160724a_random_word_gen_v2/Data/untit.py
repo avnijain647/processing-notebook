@@ -5,7 +5,8 @@ noun = open("nouns.csv","w+")
 verb = open("verbs.csv","w+")
 adj = open("adjectives.csv","w+")
 adverb = open("adverbs.csv","w+")
-#pronoun = open("pronouns.csv","w+")
+pronoun = open("pronouns.csv","w+")
+conjunction = open("conjunction.csv", "w+")
 
 with open("combi.csv", "r") as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
@@ -30,9 +31,13 @@ with open("combi.csv", "r") as csv_file:
         if "adv." in lines[1]:
             adverb.write(lines[0] + "\r\n")
             
-##        Pronoun    
-#        if "prep." in lines[1]:
-#            pronoun.write(lines[0] + "\r\n")
+#        Pronoun    
+        if "pron." in lines[1]:
+            pronoun.write(lines[0] + "\r\n")
+            
+#        Conjunction    
+        if "conj." in lines[1]:
+            conjunction.write(lines[0] + "\r\n")
 
 
             
@@ -44,4 +49,5 @@ noun.close()
 verb.close()
 adj.close()
 adverb.close()
-#pronoun.close()
+pronoun.close()
+conjunction.close()

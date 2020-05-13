@@ -1,0 +1,5 @@
+from PyDictionary import PyDictionary
+
+meanings = open("meaning.csv","w+")
+
+print file.readlines(1);
