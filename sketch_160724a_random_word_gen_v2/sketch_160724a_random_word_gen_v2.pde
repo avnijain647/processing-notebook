@@ -17,14 +17,14 @@ PFont font;
 float xMargin = 20;
 
 void setup() {
-  size(1200, 800);
+  size(1920, 1080);
   frameRate(1);
 
   //font = createFont("HKGrotesk-Regular.otf", 64);
   //font = createFont("KarlaR.ttf", 64);
   font = createFont("InterR.ttf", 64);
 
-  textFont(font, 14);
+  textFont(font, 16);
 
   csv = loadStrings("colordict.csv");
   c = new String[csv.length][0];
